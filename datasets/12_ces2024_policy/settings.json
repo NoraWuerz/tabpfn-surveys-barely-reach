@@ -1,0 +1,1 @@
+{"y_col":"cons_idx","group_col":"state","unit_id":"idU","x_cols_num":["age"],"x_cols_cat":["gender4","educ","race","hispanic","marstat","faminc","employ","religpew","urbancity","child18","union","ownhome","newsint"],"covariates":["age","gender4","educ","race","hispanic","marstat","faminc","employ","religpew","urbancity","child18","union","ownhome","newsint"]}

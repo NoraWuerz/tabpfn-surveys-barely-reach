@@ -1,0 +1,44 @@
+\begin{table}[H]
+\centering
+\scriptsize
+\setlength{\tabcolsep}{3.5pt}
+\caption{Design-based populations under the common, deliberately small
+sampling design of this study.
+$D$ is the number of areas and ``OOS'' the number of areas that receive no
+sampled unit in any replication; $N$ and $n$ are population and sample
+size; $\bar n_i$ and $\tilde n_i$ are the mean and median per-area sample
+size over the in-sample areas, and the range columns give the per-area
+minima and maxima of the sample and population sizes; ICC is the intraclass
+correlation of the
+target in the fixed population from a linear mixed model with that
+population's covariates and an area random intercept. All quantities refer
+to the fixed populations and stored sample draws of this study. Rows
+are ordered by decreasing ICC, the canonical order of all figures and
+tables.}
+\label{tab:datasets}
+\begin{tabular}{@{}lllrrrrrrrrr@{}}
+\toprule
+Population & Target & Area & $D$ & OOS & $N$ & $n$ & $\bar n_i$ & $\tilde n_i$ & $n_i$ range & $N_i$ range & ICC \\
+\midrule
+TIMSS 2023 UAE \citep{mullis2024timss} & mathematics score & school & 747 & 149 & 29{,}587 & 1{,}793 & 3.0 & 3.0 & 2--3 & 1--94 & 0.451 \\
+EU-SILC Austria \citep{kreutzmann2019emdi} & equivalised income & district & 94 & 19 & 25{,}000 & 342 & 4.6 & 3.0 & 3--12 & 5--5{,}857 & 0.376 \\
+WVS wave 7 \citep{haerpfer2022wvs7} & institutional trust & country & 62 & 12 & 76{,}156 & 1{,}182 & 23.6 & 21.5 & 6--59 & 452--3{,}997 & 0.266 \\
+PUMS 2023 renters$^{\dagger}$ \citep{census2024pums} & rent & state & 51 & 10 & 44{,}518 & 579 & 14.1 & 8.0 & 3--66 & 54--7{,}681 & 0.185 \\
+FDZ BEE 2017 \citep{fdz_bee2017} & yield per hectare & federal state & 13 & 3 & 5{,}297 & 88 & 8.8 & 8.5 & 3--16 & 17--767 & 0.169 \\
+Afrobarometer R9 \citep{afrobarometer2025r9} & Lived Poverty Index & country & 38 & 8 & 49{,}198 & 734 & 24.5 & 22.5 & 6--61 & 329--2{,}393 & 0.154 \\
+PNADC 2024$^{\dagger}$ \citep{ibge2025pnadc} & log labour income & state $\times$ urban/rural & 54 & 11 & 44{,}454 & 758 & 17.6 & 12.0 & 3--83 & 47--3{,}514 & 0.123 \\
+RECS 2020 \citep{eia2022recs} & electricity use & state & 51 & 10 & 18{,}496 & 291 & 7.1 & 7.0 & 3--21 & 143--1{,}152 & 0.102 \\
+PUMS 2023 owners$^{\dagger}$ \citep{census2024pums} & home value & state & 51 & 10 & 48{,}762 & 748 & 18.2 & 13.0 & 3--123 & 68--4{,}804 & 0.099 \\
+LSMS-ISA v2.0 \citep{lsms2025isa} & log per-capita consumption & admin-1 region & 44 & 9 & 16{,}515 & 295 & 8.4 & 5.0 & 3--33 & 31--1{,}496 & 0.061 \\
+PISA 2022 Spain \citep{oecd2023pisa} & mathematics score & autonomous community & 19 & 4 & 28{,}475 & 449 & 29.9 & 30.0 & 3--75 & 224--3{,}034 & 0.060 \\
+Peru DHS 2009 children \citep{inei2010endes} & hemoglobin & department & 25 & 5 & 7{,}855 & 122 & 6.1 & 6.0 & 3--13 & 55--523 & 0.058 \\
+KDHS 2022 women \citep{knbs2023kdhs} & body mass index & county & 47 & 9 & 17{,}268 & 290 & 7.6 & 7.5 & 4--12 & 258--499 & 0.023 \\
+EVS 1962/63 \citep{fdz_evs1963} & net household income & state $\times$ size class & 91 & 18 & 32{,}484 & 620 & 8.5 & 5.0 & 3--59 & 32--2{,}572 & 0.018 \\
+CES 2024 \citep{kuriwaki2025ces} & policy conservatism & state & 51 & 10 & 59{,}586 & 872 & 21.3 & 15.0 & 3--74 & 94--4{,}870 & 0.013 \\
+ENVIPE 2024 \citep{inegi2024envipe} & log protection spending & state & 32 & 6 & 20{,}416 & 326 & 12.5 & 10.0 & 3--58 & 148--2{,}002 & 0.008 \\
+\bottomrule
+\end{tabular}
+\par\smallskip
+{\raggedright\scriptsize $^{\dagger}$\,population reduced by stratified
+sampling within areas to below 50{,}000 units.\par}
+\end{table}

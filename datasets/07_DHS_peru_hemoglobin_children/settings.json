@@ -1,0 +1,1 @@
+{"y_col":"hb","group_col":"dept","unit_id":"idU","x_cols_num":["agem"],"x_cols_cat":["csex","urban","wealth","meduc"],"covariates":["agem","csex","urban","wealth","meduc"]}

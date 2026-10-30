@@ -1,0 +1,1 @@
+{"y_col":"trust_idx","group_col":"country","unit_id":"idU","x_cols_num":["age","inc"],"x_cols_cat":["sex","educ","marst","empl","class","urban"],"covariates":["age","inc","sex","educ","marst","empl","class","urban"]}

@@ -1,0 +1,1 @@
+{"y_col":"eqIncome","group_col":"district","unit_id":"idU","x_cols_num":["eqsize","cash","rent","tax_adj"],"x_cols_cat":["gender"],"covariates":["eqsize","cash","rent","tax_adj","gender"]}

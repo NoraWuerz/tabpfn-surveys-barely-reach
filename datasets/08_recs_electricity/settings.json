@@ -1,0 +1,1 @@
+{"y_col":"kwh","group_col":"state","unit_id":"idU","x_cols_num":["sqft","hhsize","hhage","yearmade","income"],"x_cols_cat":["typehuq","fuelheat","urban","educ"],"covariates":["sqft","hhsize","hhage","yearmade","income","typehuq","fuelheat","urban","educ"]}

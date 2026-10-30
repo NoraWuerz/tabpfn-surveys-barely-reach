@@ -1,0 +1,1 @@
+{"y_col":"bmi","group_col":"county","unit_id":"idU","x_cols_num":["age"],"x_cols_cat":["urban","educ","wealth"],"covariates":["age","urban","educ","wealth"]}

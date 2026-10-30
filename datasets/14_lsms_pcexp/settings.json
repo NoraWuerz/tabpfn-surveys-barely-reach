@@ -1,0 +1,1 @@
+{"y_col":"lpcexp","group_col":"area1","unit_id":"idU","x_cols_num":["hh_size","dep","asset","hdds"],"x_cols_cat":["urban","elec","educ","nonfarm","country"],"covariates":["hh_size","dep","asset","hdds","urban","elec","educ","nonfarm","country"]}

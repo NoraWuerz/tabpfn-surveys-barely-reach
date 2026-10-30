@@ -1,0 +1,19 @@
+# Python environment
+.venv/
+__pycache__/
+*.py[cod]
+
+# CatBoost scratch
+catboost_info/
+
+# R
+.RData
+.Rhistory
+.Rproj.user/
+Rplots.pdf
+
+# Per-population merged results are rebuilt by run_postprocess.R
+datasets/*/merged/
+
+# FAUbox version copies (name_N_DD.MM.YYYY,_HH_MM_SS.ext)
+*_[0-9][0-9].[0-9][0-9].20[0-9][0-9],_[0-9][0-9]_[0-9][0-9]_[0-9][0-9].*

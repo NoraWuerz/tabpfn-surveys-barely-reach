@@ -1,0 +1,1 @@
+{"y_col":"math","group_col":"school","unit_id":"idU","x_cols_num":["age"],"x_cols_cat":["sex","books","lang","pared","her","expect"],"covariates":["age","sex","books","lang","pared","her","expect"]}

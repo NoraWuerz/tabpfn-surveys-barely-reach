@@ -1,0 +1,24 @@
+[project]
+name = "pnas-replication-tabpfn"
+version = "1.0.0"
+description = "Python environment for the TabPFN estimators of the replication package (models/tabpfn_naive.py, models/tabpfn_id.py, functions/tabpfn_em.R via reticulate)"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "numpy>=2.4.4",
+    "pandas>=2.0.0",
+    "pyarrow>=24.0.0",
+    "pytictoc>=1.5.3",
+    "tabpfn>=9.0.0",
+    "torch>=2.0.0",
+]
+
+[tool.uv.sources]
+torch = [
+  { index = "pytorch-cu124", marker = "sys_platform == 'win32'" },
+]
+
+[[tool.uv.index]]
+name = "pytorch-cu124"
+url = "https://download.pytorch.org/whl/cu124"
+explicit = true

@@ -1,0 +1,1 @@
+{"y_col":"lrenda","group_col":"ufurb","unit_id":"idU","x_cols_num":["idade","anos"],"x_cols_cat":["sexo","raca","nivel","urb"],"covariates":["idade","anos","sexo","raca","nivel","urb"]}

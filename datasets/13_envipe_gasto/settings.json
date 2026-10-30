@@ -1,0 +1,1 @@
+{"y_col":"lgasto","group_col":"ent","unit_id":"idU","x_cols_num":["edad","tot"],"x_cols_cat":["sexo","niv","paren","clase","dom"],"covariates":["edad","tot","sexo","niv","paren","clase","dom"]}

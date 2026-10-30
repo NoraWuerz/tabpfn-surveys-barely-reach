@@ -1,0 +1,1 @@
+{"y_col":"lpi","group_col":"country","unit_id":"idU","x_cols_num":["age"],"x_cols_cat":["sex","educ","empl","urban"],"covariates":["age","sex","educ","empl","urban"]}

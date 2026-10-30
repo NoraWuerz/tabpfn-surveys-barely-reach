@@ -1,0 +1,1 @@
+{"y_col":"math","group_col":"region","unit_id":"idU","x_cols_num":["escs","age"],"x_cols_cat":["sex","immig","grade_rep","hisced"],"covariates":["escs","age","sex","immig","grade_rep","hisced"]}

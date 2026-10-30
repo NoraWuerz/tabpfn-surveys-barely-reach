@@ -1,0 +1,1345 @@
+"population","dataset","scope","canonical","label","metric","estimate","se"
+"TIMSS 2023 UAE","16_timss_are_math","insample","direct","Direct","mean_rrmse",7.95795300872116,0.0342651664807359
+"TIMSS 2023 UAE","16_timss_are_math","insample","direct","Direct","median_rrmse",7.8938417179155,0.0611144732943217
+"TIMSS 2023 UAE","16_timss_are_math","insample","direct","Direct","mean_rb",-0.0136738472828423,0.03503763752524
+"TIMSS 2023 UAE","16_timss_are_math","insample","direct","Direct","median_rb",0.0153701826823884,0.0551727147279718
+"TIMSS 2023 UAE","16_timss_are_math","insample","lmm","LMM","mean_rrmse",6.47689602555673,0.0249843927972906
+"TIMSS 2023 UAE","16_timss_are_math","insample","lmm","LMM","median_rrmse",6.06987257300592,0.0454327965156047
+"TIMSS 2023 UAE","16_timss_are_math","insample","lmm","LMM","mean_rb",0.539316065444251,0.040436971935014
+"TIMSS 2023 UAE","16_timss_are_math","insample","lmm","LMM","median_rb",0.192928476325799,0.0943522445143815
+"TIMSS 2023 UAE","16_timss_are_math","insample","rf","RF","mean_rrmse",9.7234461143149,0.0226652222087815
+"TIMSS 2023 UAE","16_timss_are_math","insample","rf","RF","median_rrmse",8.65265805261485,0.0367340324802308
+"TIMSS 2023 UAE","16_timss_are_math","insample","rf","RF","mean_rb",1.61563031582744,0.0462971848813679
+"TIMSS 2023 UAE","16_timss_are_math","insample","rf","RF","median_rb",0.960270248486762,0.0532897286652985
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost","CatBoost","mean_rrmse",9.64190340607593,0.0309436094204953
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost","CatBoost","median_rrmse",8.4612753060899,0.0539892059252043
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost","CatBoost","mean_rb",1.56680917089755,0.0806930409354411
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost","CatBoost","median_rb",0.823016624572965,0.0915898754200842
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn","TabPFN","mean_rrmse",9.56058836290143,0.0211365886344835
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn","TabPFN","median_rrmse",8.34120929831656,0.0386292992583232
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn","TabPFN","mean_rb",1.60195849093056,0.0460834643519533
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn","TabPFN","median_rb",0.911978843505052,0.0502813146916653
+"TIMSS 2023 UAE","16_timss_are_math","insample","rf_group","RF-ID","mean_rrmse",9.58577073545692,0.0313817645698212
+"TIMSS 2023 UAE","16_timss_are_math","insample","rf_group","RF-ID","median_rrmse",8.52390257448053,0.0408318305740746
+"TIMSS 2023 UAE","16_timss_are_math","insample","rf_group","RF-ID","mean_rb",1.569819124774,0.0477238287921458
+"TIMSS 2023 UAE","16_timss_are_math","insample","rf_group","RF-ID","median_rb",0.780867456095294,0.0831821189784163
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost_group","CatBoost-ID","mean_rrmse",7.46019998307701,0.0287853848783949
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost_group","CatBoost-ID","median_rrmse",6.23157683784946,0.062313728529598
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost_group","CatBoost-ID","mean_rb",0.861559579125285,0.0775120361055326
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost_group","CatBoost-ID","median_rb",-0.0837979446390796,0.140239205413882
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn_group","TabPFN-ID","mean_rrmse",6.02663003030113,0.0277485215098112
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn_group","TabPFN-ID","median_rrmse",5.6601395835792,0.0420642033198904
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn_group","TabPFN-ID","mean_rb",0.374387271630132,0.0394170700738792
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn_group","TabPFN-ID","median_rb",0.0475730528038345,0.0910153645034877
+"TIMSS 2023 UAE","16_timss_are_math","insample","merf","MERF","mean_rrmse",6.4760185715071,0.0260446485955915
+"TIMSS 2023 UAE","16_timss_are_math","insample","merf","MERF","median_rrmse",6.07155804860864,0.0450048456672434
+"TIMSS 2023 UAE","16_timss_are_math","insample","merf","MERF","mean_rb",0.541163641028908,0.0403656923598134
+"TIMSS 2023 UAE","16_timss_are_math","insample","merf","MERF","median_rb",0.175851134531398,0.0954540816032635
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost_em","CatBoost-EM","mean_rrmse",6.48399963025698,0.0266325799598762
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost_em","CatBoost-EM","median_rrmse",6.03949700921687,0.0478730012365549
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost_em","CatBoost-EM","mean_rb",0.466630026910959,0.0549867426023735
+"TIMSS 2023 UAE","16_timss_are_math","insample","catboost_em","CatBoost-EM","median_rb",0.139778783559961,0.105422040053978
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn_em","TabPFN-EM","mean_rrmse",6.44627835203515,0.0253262589275341
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn_em","TabPFN-EM","median_rrmse",6.00699958282207,0.0452359621700266
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn_em","TabPFN-EM","mean_rb",0.56142794529048,0.0410753662971764
+"TIMSS 2023 UAE","16_timss_are_math","insample","tabpfn_em","TabPFN-EM","median_rb",0.229948868124122,0.0937447217422544
+"TIMSS 2023 UAE","16_timss_are_math","oos","lmm","LMM","mean_rrmse",9.6687244950903,0.0222594447439446
+"TIMSS 2023 UAE","16_timss_are_math","oos","lmm","LMM","median_rrmse",8.29132692778601,0.0634178910772457
+"TIMSS 2023 UAE","16_timss_are_math","oos","lmm","LMM","mean_rb",0.938362090039897,0.0387664126349539
+"TIMSS 2023 UAE","16_timss_are_math","oos","lmm","LMM","median_rb",-0.0152628295452344,0.0775679325892257
+"TIMSS 2023 UAE","16_timss_are_math","oos","rf","RF","mean_rrmse",8.97153859501574,0.0203273003796187
+"TIMSS 2023 UAE","16_timss_are_math","oos","rf","RF","median_rrmse",7.72369475185629,0.072834872325275
+"TIMSS 2023 UAE","16_timss_are_math","oos","rf","RF","mean_rb",1.02359707480128,0.0450271510382899
+"TIMSS 2023 UAE","16_timss_are_math","oos","rf","RF","median_rb",-0.126896876759802,0.0677833943625886
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost","CatBoost","mean_rrmse",8.89106050602266,0.0265076718706287
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost","CatBoost","median_rrmse",7.68404518764185,0.0709664789928754
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost","CatBoost","mean_rb",0.973306492414566,0.0764467926071616
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost","CatBoost","median_rb",-0.248766716246641,0.0912847083791193
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn","TabPFN","mean_rrmse",8.83182331687066,0.0193059675799357
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn","TabPFN","median_rrmse",7.36463578032335,0.0421451723654097
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn","TabPFN","mean_rb",1.04562857145237,0.0431464738936372
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn","TabPFN","median_rb",-0.15372833212771,0.0554690996139644
+"TIMSS 2023 UAE","16_timss_are_math","oos","rf_group","RF-ID","mean_rrmse",8.98450621174239,0.0201108875547588
+"TIMSS 2023 UAE","16_timss_are_math","oos","rf_group","RF-ID","median_rrmse",7.93315973132227,0.0808037737622438
+"TIMSS 2023 UAE","16_timss_are_math","oos","rf_group","RF-ID","mean_rb",1.05325501446031,0.0433073548109609
+"TIMSS 2023 UAE","16_timss_are_math","oos","rf_group","RF-ID","median_rb",-0.344069979883685,0.0822831974593532
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost_group","CatBoost-ID","mean_rrmse",9.22285682301311,0.028664168053007
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost_group","CatBoost-ID","median_rrmse",7.98325212430368,0.0454897015481746
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost_group","CatBoost-ID","mean_rb",0.748383344394642,0.09775157220234
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost_group","CatBoost-ID","median_rb",-0.126892048394005,0.133406910963855
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn_group","TabPFN-ID","mean_rrmse",8.84557865017284,0.0180659298227327
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn_group","TabPFN-ID","median_rrmse",7.40897741067049,0.0497794111995042
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn_group","TabPFN-ID","mean_rb",1.01618657138309,0.0442288775746422
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn_group","TabPFN-ID","median_rb",-0.26918013704909,0.0532381506853962
+"TIMSS 2023 UAE","16_timss_are_math","oos","merf","MERF","mean_rrmse",9.77089789190045,0.0238145540647729
+"TIMSS 2023 UAE","16_timss_are_math","oos","merf","MERF","median_rrmse",8.61555019695771,0.0430932137875688
+"TIMSS 2023 UAE","16_timss_are_math","oos","merf","MERF","mean_rb",0.905251404348532,0.0408049740985988
+"TIMSS 2023 UAE","16_timss_are_math","oos","merf","MERF","median_rb",0.195452991794779,0.0766722481397095
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost_em","CatBoost-EM","mean_rrmse",9.66221599581854,0.022441409236881
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost_em","CatBoost-EM","median_rrmse",8.45895368313822,0.0473775774730514
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost_em","CatBoost-EM","mean_rb",0.833112375168667,0.0591554928498985
+"TIMSS 2023 UAE","16_timss_are_math","oos","catboost_em","CatBoost-EM","median_rb",-0.0285247961574382,0.0740815372811709
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn_em","TabPFN-EM","mean_rrmse",9.66553095252188,0.0228135603273833
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn_em","TabPFN-EM","median_rrmse",8.46155880245976,0.0836402911112964
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn_em","TabPFN-EM","mean_rb",0.98594602957425,0.0419661714688854
+"TIMSS 2023 UAE","16_timss_are_math","oos","tabpfn_em","TabPFN-EM","median_rb",0.253127332946361,0.0672501911775009
+"EU-SILC Austria","01_eusilc","insample","direct","Direct","mean_rrmse",17.8336146979865,0.212477603574417
+"EU-SILC Austria","01_eusilc","insample","direct","Direct","median_rrmse",17.2183671678014,0.389215023416615
+"EU-SILC Austria","01_eusilc","insample","direct","Direct","mean_rb",0.0560523921380233,0.299042918063901
+"EU-SILC Austria","01_eusilc","insample","direct","Direct","median_rb",-0.115678144199205,0.377967422369784
+"EU-SILC Austria","01_eusilc","insample","lmm","LMM","mean_rrmse",14.4091206178146,0.201560031580544
+"EU-SILC Austria","01_eusilc","insample","lmm","LMM","median_rrmse",13.3386735367012,0.338697722398625
+"EU-SILC Austria","01_eusilc","insample","lmm","LMM","mean_rb",3.43560554490163,0.310487491818311
+"EU-SILC Austria","01_eusilc","insample","lmm","LMM","median_rb",3.01252402513177,0.522340114722427
+"EU-SILC Austria","01_eusilc","insample","rf","RF","mean_rrmse",20.2127564467107,0.243723556596364
+"EU-SILC Austria","01_eusilc","insample","rf","RF","median_rrmse",17.2495413556687,0.419298378181338
+"EU-SILC Austria","01_eusilc","insample","rf","RF","mean_rb",11.2089006846419,0.333020113592906
+"EU-SILC Austria","01_eusilc","insample","rf","RF","median_rb",10.5957589374074,0.33651133927989
+"EU-SILC Austria","01_eusilc","insample","catboost","CatBoost","mean_rrmse",19.4365781347881,0.246553192160548
+"EU-SILC Austria","01_eusilc","insample","catboost","CatBoost","median_rrmse",16.2814062684348,0.485566865480883
+"EU-SILC Austria","01_eusilc","insample","catboost","CatBoost","mean_rb",10.2212580249068,0.376812265992948
+"EU-SILC Austria","01_eusilc","insample","catboost","CatBoost","median_rb",9.90603680231446,0.391967155178461
+"EU-SILC Austria","01_eusilc","insample","tabpfn","TabPFN","mean_rrmse",19.0731097894496,0.217046423469999
+"EU-SILC Austria","01_eusilc","insample","tabpfn","TabPFN","median_rrmse",16.3436504603608,0.373378941745402
+"EU-SILC Austria","01_eusilc","insample","tabpfn","TabPFN","mean_rb",11.1069352428281,0.339045317755379
+"EU-SILC Austria","01_eusilc","insample","tabpfn","TabPFN","median_rb",9.86331973231986,0.332906066839163
+"EU-SILC Austria","01_eusilc","insample","rf_group","RF-ID","mean_rrmse",18.8056591644037,0.228583968528373
+"EU-SILC Austria","01_eusilc","insample","rf_group","RF-ID","median_rrmse",14.6492980073631,0.607667220266177
+"EU-SILC Austria","01_eusilc","insample","rf_group","RF-ID","mean_rb",9.64294857127867,0.320360907843882
+"EU-SILC Austria","01_eusilc","insample","rf_group","RF-ID","median_rb",8.22779575365121,0.498504350788704
+"EU-SILC Austria","01_eusilc","insample","catboost_group","CatBoost-ID","mean_rrmse",15.35393854239,0.313705750162271
+"EU-SILC Austria","01_eusilc","insample","catboost_group","CatBoost-ID","median_rrmse",13.8528851327593,0.36096499560839
+"EU-SILC Austria","01_eusilc","insample","catboost_group","CatBoost-ID","mean_rb",2.78492588658331,0.545502161969703
+"EU-SILC Austria","01_eusilc","insample","catboost_group","CatBoost-ID","median_rb",2.40345689857343,0.652998577368634
+"EU-SILC Austria","01_eusilc","insample","tabpfn_group","TabPFN-ID","mean_rrmse",11.2361912117383,0.156211968446172
+"EU-SILC Austria","01_eusilc","insample","tabpfn_group","TabPFN-ID","median_rrmse",10.5135460673371,0.248120654868434
+"EU-SILC Austria","01_eusilc","insample","tabpfn_group","TabPFN-ID","mean_rb",2.53304916086165,0.271191229947956
+"EU-SILC Austria","01_eusilc","insample","tabpfn_group","TabPFN-ID","median_rb",1.24157137109709,0.455876648946358
+"EU-SILC Austria","01_eusilc","insample","merf","MERF","mean_rrmse",13.9071611903663,0.184607537940851
+"EU-SILC Austria","01_eusilc","insample","merf","MERF","median_rrmse",12.6191076712717,0.292190451637906
+"EU-SILC Austria","01_eusilc","insample","merf","MERF","mean_rb",2.65099900919053,0.333663754442814
+"EU-SILC Austria","01_eusilc","insample","merf","MERF","median_rb",2.23139645435564,0.514227984002369
+"EU-SILC Austria","01_eusilc","insample","catboost_em","CatBoost-EM","mean_rrmse",14.3820512522755,0.22555662354499
+"EU-SILC Austria","01_eusilc","insample","catboost_em","CatBoost-EM","median_rrmse",13.1702144867011,0.350147679509708
+"EU-SILC Austria","01_eusilc","insample","catboost_em","CatBoost-EM","mean_rb",1.89614015061619,0.36308564044642
+"EU-SILC Austria","01_eusilc","insample","catboost_em","CatBoost-EM","median_rb",1.49397545414328,0.528958521439448
+"EU-SILC Austria","01_eusilc","insample","tabpfn_em","TabPFN-EM","mean_rrmse",13.6235644624685,0.203082566000471
+"EU-SILC Austria","01_eusilc","insample","tabpfn_em","TabPFN-EM","median_rrmse",11.9636804739039,0.346201208725701
+"EU-SILC Austria","01_eusilc","insample","tabpfn_em","TabPFN-EM","mean_rb",3.21852631746867,0.376195094324938
+"EU-SILC Austria","01_eusilc","insample","tabpfn_em","TabPFN-EM","median_rb",2.14167807415734,0.50365282204562
+"EU-SILC Austria","01_eusilc","oos","lmm","LMM","mean_rrmse",28.5589848377362,0.257051996259851
+"EU-SILC Austria","01_eusilc","oos","lmm","LMM","median_rrmse",19.7582806032381,0.216895822321344
+"EU-SILC Austria","01_eusilc","oos","lmm","LMM","mean_rb",15.2911832208385,0.358143677793877
+"EU-SILC Austria","01_eusilc","oos","lmm","LMM","median_rb",11.4893365051746,0.316306430177746
+"EU-SILC Austria","01_eusilc","oos","rf","RF","mean_rrmse",26.1467169719848,0.249405491665964
+"EU-SILC Austria","01_eusilc","oos","rf","RF","median_rrmse",14.5790692130545,0.509907550856219
+"EU-SILC Austria","01_eusilc","oos","rf","RF","mean_rb",16.7618322462663,0.354513125782188
+"EU-SILC Austria","01_eusilc","oos","rf","RF","median_rb",11.8814837379428,0.406612990018958
+"EU-SILC Austria","01_eusilc","oos","catboost","CatBoost","mean_rrmse",25.6492077445652,0.25882286386299
+"EU-SILC Austria","01_eusilc","oos","catboost","CatBoost","median_rrmse",13.3714077234102,0.465903225062066
+"EU-SILC Austria","01_eusilc","oos","catboost","CatBoost","mean_rb",15.7848754204263,0.411221819144838
+"EU-SILC Austria","01_eusilc","oos","catboost","CatBoost","median_rb",10.8706361706118,0.508282579955192
+"EU-SILC Austria","01_eusilc","oos","tabpfn","TabPFN","mean_rrmse",24.9880663703726,0.233290689225618
+"EU-SILC Austria","01_eusilc","oos","tabpfn","TabPFN","median_rrmse",13.3489181664555,0.420684504512858
+"EU-SILC Austria","01_eusilc","oos","tabpfn","TabPFN","mean_rb",16.6552326543878,0.373166280164715
+"EU-SILC Austria","01_eusilc","oos","tabpfn","TabPFN","median_rb",10.9007490989417,0.385431241487913
+"EU-SILC Austria","01_eusilc","oos","rf_group","RF-ID","mean_rrmse",26.715605808888,0.278840528498659
+"EU-SILC Austria","01_eusilc","oos","rf_group","RF-ID","median_rrmse",13.4402089779839,1.43050303296694
+"EU-SILC Austria","01_eusilc","oos","rf_group","RF-ID","mean_rb",16.2536017741062,0.360217717965699
+"EU-SILC Austria","01_eusilc","oos","rf_group","RF-ID","median_rb",10.3635989757303,0.559775404404653
+"EU-SILC Austria","01_eusilc","oos","catboost_group","CatBoost-ID","mean_rrmse",22.7537811814784,0.563598645774836
+"EU-SILC Austria","01_eusilc","oos","catboost_group","CatBoost-ID","median_rrmse",14.2556813898151,0.434702250685978
+"EU-SILC Austria","01_eusilc","oos","catboost_group","CatBoost-ID","mean_rb",6.21475498487592,0.803710256742747
+"EU-SILC Austria","01_eusilc","oos","catboost_group","CatBoost-ID","median_rb",2.14466006105079,0.73697132781913
+"EU-SILC Austria","01_eusilc","oos","tabpfn_group","TabPFN-ID","mean_rrmse",24.0395192682121,0.203861361484486
+"EU-SILC Austria","01_eusilc","oos","tabpfn_group","TabPFN-ID","median_rrmse",14.4902634407795,0.246069034307088
+"EU-SILC Austria","01_eusilc","oos","tabpfn_group","TabPFN-ID","mean_rb",13.8465507328046,0.347367084612659
+"EU-SILC Austria","01_eusilc","oos","tabpfn_group","TabPFN-ID","median_rb",8.24479757898093,0.357644404705201
+"EU-SILC Austria","01_eusilc","oos","merf","MERF","mean_rrmse",27.3227283233936,0.288927354782054
+"EU-SILC Austria","01_eusilc","oos","merf","MERF","median_rrmse",17.9930304235789,0.327748274082547
+"EU-SILC Austria","01_eusilc","oos","merf","MERF","mean_rb",13.6839365353799,0.477325059937979
+"EU-SILC Austria","01_eusilc","oos","merf","MERF","median_rb",8.67571284191185,0.52073272750602
+"EU-SILC Austria","01_eusilc","oos","catboost_em","CatBoost-EM","mean_rrmse",26.2835664486427,0.299525963197675
+"EU-SILC Austria","01_eusilc","oos","catboost_em","CatBoost-EM","median_rrmse",19.4850890901119,0.338717384540349
+"EU-SILC Austria","01_eusilc","oos","catboost_em","CatBoost-EM","mean_rb",11.1826770027588,0.516790871996172
+"EU-SILC Austria","01_eusilc","oos","catboost_em","CatBoost-EM","median_rb",6.31556039690775,0.588000626973137
+"EU-SILC Austria","01_eusilc","oos","tabpfn_em","TabPFN-EM","mean_rrmse",26.9538744695466,0.260249088236378
+"EU-SILC Austria","01_eusilc","oos","tabpfn_em","TabPFN-EM","median_rrmse",16.581199910055,0.308346364612918
+"EU-SILC Austria","01_eusilc","oos","tabpfn_em","TabPFN-EM","mean_rb",15.119939075863,0.42305654727098
+"EU-SILC Austria","01_eusilc","oos","tabpfn_em","TabPFN-EM","median_rb",9.38316953630579,0.441194697046855
+"WVS wave 7","11_wvs7_trust","insample","direct","Direct","mean_rrmse",4.98100952246049,0.0743447219621169
+"WVS wave 7","11_wvs7_trust","insample","direct","Direct","median_rrmse",4.95442315181068,0.131974552228785
+"WVS wave 7","11_wvs7_trust","insample","direct","Direct","mean_rb",-0.0844668761008648,0.0985172635077532
+"WVS wave 7","11_wvs7_trust","insample","direct","Direct","median_rb",-0.0693858530342262,0.120763980359492
+"WVS wave 7","11_wvs7_trust","insample","lmm","LMM","mean_rrmse",4.67841780520706,0.0592345455888931
+"WVS wave 7","11_wvs7_trust","insample","lmm","LMM","median_rrmse",4.71219819800886,0.121286103768769
+"WVS wave 7","11_wvs7_trust","insample","lmm","LMM","mean_rb",0.0573361854625855,0.0921208720667084
+"WVS wave 7","11_wvs7_trust","insample","lmm","LMM","median_rb",0.0236509299950122,0.158114525735498
+"WVS wave 7","11_wvs7_trust","insample","rf","RF","mean_rrmse",10.258173904732,0.0353410420498511
+"WVS wave 7","11_wvs7_trust","insample","rf","RF","median_rrmse",10.1053466672544,0.118886552392863
+"WVS wave 7","11_wvs7_trust","insample","rf","RF","mean_rb",1.48452908837769,0.0793517038820188
+"WVS wave 7","11_wvs7_trust","insample","rf","RF","median_rb",2.33577830250148,0.113146313666217
+"WVS wave 7","11_wvs7_trust","insample","catboost","CatBoost","mean_rrmse",10.0903145783917,0.0451709109134489
+"WVS wave 7","11_wvs7_trust","insample","catboost","CatBoost","median_rrmse",9.95345205887334,0.159847684924309
+"WVS wave 7","11_wvs7_trust","insample","catboost","CatBoost","mean_rb",1.31850716315949,0.117436563317102
+"WVS wave 7","11_wvs7_trust","insample","catboost","CatBoost","median_rb",2.6559812759628,0.146672938689433
+"WVS wave 7","11_wvs7_trust","insample","tabpfn","TabPFN","mean_rrmse",10.1267095507874,0.0348076612539353
+"WVS wave 7","11_wvs7_trust","insample","tabpfn","TabPFN","median_rrmse",10.3076929541076,0.105453876706076
+"WVS wave 7","11_wvs7_trust","insample","tabpfn","TabPFN","mean_rb",1.56536949718379,0.0890300764240901
+"WVS wave 7","11_wvs7_trust","insample","tabpfn","TabPFN","median_rb",2.5262347819328,0.12295940958672
+"WVS wave 7","11_wvs7_trust","insample","rf_group","RF-ID","mean_rrmse",8.5546262192705,0.0536126812946225
+"WVS wave 7","11_wvs7_trust","insample","rf_group","RF-ID","median_rrmse",7.74485684152736,0.190841374419127
+"WVS wave 7","11_wvs7_trust","insample","rf_group","RF-ID","mean_rb",1.0760581433476,0.0798393745318193
+"WVS wave 7","11_wvs7_trust","insample","rf_group","RF-ID","median_rb",0.866180353285413,0.225860936288231
+"WVS wave 7","11_wvs7_trust","insample","catboost_group","CatBoost-ID","mean_rrmse",5.55240729047928,0.0723316208495148
+"WVS wave 7","11_wvs7_trust","insample","catboost_group","CatBoost-ID","median_rrmse",5.41932770686641,0.140309448496019
+"WVS wave 7","11_wvs7_trust","insample","catboost_group","CatBoost-ID","mean_rb",0.192869147531104,0.119734207534431
+"WVS wave 7","11_wvs7_trust","insample","catboost_group","CatBoost-ID","median_rb",-0.70033079472545,0.20647954838941
+"WVS wave 7","11_wvs7_trust","insample","tabpfn_group","TabPFN-ID","mean_rrmse",4.4893885564711,0.0637341436689969
+"WVS wave 7","11_wvs7_trust","insample","tabpfn_group","TabPFN-ID","median_rrmse",4.48771969702515,0.104338815416046
+"WVS wave 7","11_wvs7_trust","insample","tabpfn_group","TabPFN-ID","mean_rb",-0.0371320921282573,0.105580156833068
+"WVS wave 7","11_wvs7_trust","insample","tabpfn_group","TabPFN-ID","median_rb",-0.22420064325463,0.16518895801365
+"WVS wave 7","11_wvs7_trust","insample","merf","MERF","mean_rrmse",4.65642508843064,0.061117973629985
+"WVS wave 7","11_wvs7_trust","insample","merf","MERF","median_rrmse",4.72384318843782,0.120518984549388
+"WVS wave 7","11_wvs7_trust","insample","merf","MERF","mean_rb",0.0467054767274182,0.0921996080801935
+"WVS wave 7","11_wvs7_trust","insample","merf","MERF","median_rb",0.062611526862596,0.155889595379502
+"WVS wave 7","11_wvs7_trust","insample","catboost_em","CatBoost-EM","mean_rrmse",4.71507413320379,0.0600995273934655
+"WVS wave 7","11_wvs7_trust","insample","catboost_em","CatBoost-EM","median_rrmse",4.65168976508116,0.113781173552607
+"WVS wave 7","11_wvs7_trust","insample","catboost_em","CatBoost-EM","mean_rb",0.134266041570814,0.123301037092097
+"WVS wave 7","11_wvs7_trust","insample","catboost_em","CatBoost-EM","median_rb",0.165780673173763,0.176647266294516
+"WVS wave 7","11_wvs7_trust","insample","tabpfn_em","TabPFN-EM","mean_rrmse",4.63289188410598,0.0620632432000331
+"WVS wave 7","11_wvs7_trust","insample","tabpfn_em","TabPFN-EM","median_rrmse",4.6348333863871,0.123264558040788
+"WVS wave 7","11_wvs7_trust","insample","tabpfn_em","TabPFN-EM","mean_rb",0.150095241677646,0.0925387463024224
+"WVS wave 7","11_wvs7_trust","insample","tabpfn_em","TabPFN-EM","median_rb",0.182864527103041,0.153292904894668
+"WVS wave 7","11_wvs7_trust","oos","lmm","LMM","mean_rrmse",10.8690265282165,0.0402450810932971
+"WVS wave 7","11_wvs7_trust","oos","lmm","LMM","median_rrmse",10.7517626026014,0.150325104754559
+"WVS wave 7","11_wvs7_trust","oos","lmm","LMM","mean_rb",2.2927080243592,0.103710709371256
+"WVS wave 7","11_wvs7_trust","oos","lmm","LMM","median_rb",0.30664460330962,0.138861907633687
+"WVS wave 7","11_wvs7_trust","oos","rf","RF","mean_rrmse",10.2091482013768,0.0384496111671702
+"WVS wave 7","11_wvs7_trust","oos","rf","RF","median_rrmse",10.4094258290486,0.0841875699759849
+"WVS wave 7","11_wvs7_trust","oos","rf","RF","mean_rb",2.25525984133793,0.0868802491880103
+"WVS wave 7","11_wvs7_trust","oos","rf","RF","median_rb",-0.260309447054296,0.12319478841472
+"WVS wave 7","11_wvs7_trust","oos","catboost","CatBoost","mean_rrmse",10.1550714931271,0.0464015199183226
+"WVS wave 7","11_wvs7_trust","oos","catboost","CatBoost","median_rrmse",10.0322524385019,0.109081779332588
+"WVS wave 7","11_wvs7_trust","oos","catboost","CatBoost","mean_rb",1.98126048927789,0.130635397222456
+"WVS wave 7","11_wvs7_trust","oos","catboost","CatBoost","median_rb",-0.753116507466136,0.173433952171941
+"WVS wave 7","11_wvs7_trust","oos","tabpfn","TabPFN","mean_rrmse",10.1622300168486,0.038965928500861
+"WVS wave 7","11_wvs7_trust","oos","tabpfn","TabPFN","median_rrmse",10.119305424694,0.0908473545429349
+"WVS wave 7","11_wvs7_trust","oos","tabpfn","TabPFN","mean_rb",2.26777413684559,0.0974378833880231
+"WVS wave 7","11_wvs7_trust","oos","tabpfn","TabPFN","median_rb",-0.354426342741736,0.131958410766807
+"WVS wave 7","11_wvs7_trust","oos","rf_group","RF-ID","mean_rrmse",11.4431913842867,0.109629056778689
+"WVS wave 7","11_wvs7_trust","oos","rf_group","RF-ID","median_rrmse",9.04731909627475,0.1979721178829
+"WVS wave 7","11_wvs7_trust","oos","rf_group","RF-ID","mean_rb",2.43696360116484,0.145237448531208
+"WVS wave 7","11_wvs7_trust","oos","rf_group","RF-ID","median_rb",-0.0608074060062589,0.219239727806336
+"WVS wave 7","11_wvs7_trust","oos","catboost_group","CatBoost-ID","mean_rrmse",11.4506040386461,0.16012716480781
+"WVS wave 7","11_wvs7_trust","oos","catboost_group","CatBoost-ID","median_rrmse",11.093071308198,0.197709233666333
+"WVS wave 7","11_wvs7_trust","oos","catboost_group","CatBoost-ID","mean_rb",3.16540265755677,0.49579407847764
+"WVS wave 7","11_wvs7_trust","oos","catboost_group","CatBoost-ID","median_rb",0.755138072726492,0.478464450699131
+"WVS wave 7","11_wvs7_trust","oos","tabpfn_group","TabPFN-ID","mean_rrmse",10.2858421129842,0.0344280874175822
+"WVS wave 7","11_wvs7_trust","oos","tabpfn_group","TabPFN-ID","median_rrmse",10.3904292132663,0.0803322340692838
+"WVS wave 7","11_wvs7_trust","oos","tabpfn_group","TabPFN-ID","mean_rb",2.16518635498894,0.0988974995300022
+"WVS wave 7","11_wvs7_trust","oos","tabpfn_group","TabPFN-ID","median_rb",-0.263544078741631,0.122037441948733
+"WVS wave 7","11_wvs7_trust","oos","merf","MERF","mean_rrmse",10.7683197653183,0.0305430783568002
+"WVS wave 7","11_wvs7_trust","oos","merf","MERF","median_rrmse",9.98786628735377,0.109297298852722
+"WVS wave 7","11_wvs7_trust","oos","merf","MERF","mean_rb",2.20131077183707,0.0984439613025916
+"WVS wave 7","11_wvs7_trust","oos","merf","MERF","median_rb",0.291277131110597,0.132183664640711
+"WVS wave 7","11_wvs7_trust","oos","catboost_em","CatBoost-EM","mean_rrmse",10.8167344974944,0.0418580575885304
+"WVS wave 7","11_wvs7_trust","oos","catboost_em","CatBoost-EM","median_rrmse",10.2438009061345,0.0723777375269164
+"WVS wave 7","11_wvs7_trust","oos","catboost_em","CatBoost-EM","mean_rb",2.09851946496481,0.183758204590707
+"WVS wave 7","11_wvs7_trust","oos","catboost_em","CatBoost-EM","median_rb",0.0320958243167553,0.209958625773694
+"WVS wave 7","11_wvs7_trust","oos","tabpfn_em","TabPFN-EM","mean_rrmse",10.8174264886271,0.0307422569852695
+"WVS wave 7","11_wvs7_trust","oos","tabpfn_em","TabPFN-EM","median_rrmse",10.5580462037016,0.134144350873295
+"WVS wave 7","11_wvs7_trust","oos","tabpfn_em","TabPFN-EM","mean_rb",2.72232830972947,0.104091450736678
+"WVS wave 7","11_wvs7_trust","oos","tabpfn_em","TabPFN-EM","median_rb",0.77873724169163,0.134164827239754
+"PUMS 2023 renters","03_pums_rent","insample","direct","Direct","mean_rrmse",21.7036828671985,0.415139619081532
+"PUMS 2023 renters","03_pums_rent","insample","direct","Direct","median_rrmse",20.429412107823,0.989903512785474
+"PUMS 2023 renters","03_pums_rent","insample","direct","Direct","mean_rb",-0.163622395707447,0.46155225825315
+"PUMS 2023 renters","03_pums_rent","insample","direct","Direct","median_rb",-0.211431673127381,0.517206227303132
+"PUMS 2023 renters","03_pums_rent","insample","lmm","LMM","mean_rrmse",18.5167722075465,0.263934314638225
+"PUMS 2023 renters","03_pums_rent","insample","lmm","LMM","median_rrmse",14.1397043765249,0.538804819626694
+"PUMS 2023 renters","03_pums_rent","insample","lmm","LMM","mean_rb",5.87346698294848,0.445023618082166
+"PUMS 2023 renters","03_pums_rent","insample","lmm","LMM","median_rb",1.57502248020777,0.829539058986913
+"PUMS 2023 renters","03_pums_rent","insample","rf","RF","mean_rrmse",31.1800472351739,0.174464973493776
+"PUMS 2023 renters","03_pums_rent","insample","rf","RF","median_rrmse",26.0878369486889,0.435513909764563
+"PUMS 2023 renters","03_pums_rent","insample","rf","RF","mean_rb",18.2867931665197,0.342008137191053
+"PUMS 2023 renters","03_pums_rent","insample","rf","RF","median_rb",16.7047570730199,0.381729180419694
+"PUMS 2023 renters","03_pums_rent","insample","catboost","CatBoost","mean_rrmse",31.0164634359238,0.196154963551853
+"PUMS 2023 renters","03_pums_rent","insample","catboost","CatBoost","median_rrmse",25.2782312869252,0.433836370538665
+"PUMS 2023 renters","03_pums_rent","insample","catboost","CatBoost","mean_rb",17.9695504575884,0.372864674367611
+"PUMS 2023 renters","03_pums_rent","insample","catboost","CatBoost","median_rb",16.0517421807669,0.403095259853421
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn","TabPFN","mean_rrmse",31.2963747642664,0.198453813885206
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn","TabPFN","median_rrmse",25.4816438253029,0.389682797785519
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn","TabPFN","mean_rb",18.5028887410879,0.353309818750438
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn","TabPFN","median_rb",16.704150273554,0.36220934080545
+"PUMS 2023 renters","03_pums_rent","insample","rf_group","RF-ID","mean_rrmse",26.3587061290481,0.31397054864049
+"PUMS 2023 renters","03_pums_rent","insample","rf_group","RF-ID","median_rrmse",18.6658962148441,0.854320557641546
+"PUMS 2023 renters","03_pums_rent","insample","rf_group","RF-ID","mean_rb",15.1319523587303,0.402840996701511
+"PUMS 2023 renters","03_pums_rent","insample","rf_group","RF-ID","median_rb",12.0913954055798,0.629868816535469
+"PUMS 2023 renters","03_pums_rent","insample","catboost_group","CatBoost-ID","mean_rrmse",18.9872062103657,0.389578880351186
+"PUMS 2023 renters","03_pums_rent","insample","catboost_group","CatBoost-ID","median_rrmse",15.4777233756561,0.629443561665817
+"PUMS 2023 renters","03_pums_rent","insample","catboost_group","CatBoost-ID","mean_rb",4.72081736534318,0.560383933513457
+"PUMS 2023 renters","03_pums_rent","insample","catboost_group","CatBoost-ID","median_rb",3.89694901253014,1.04116175839004
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn_group","TabPFN-ID","mean_rrmse",16.4822446357053,0.23455905540305
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn_group","TabPFN-ID","median_rrmse",13.3397822325504,0.563302291783491
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn_group","TabPFN-ID","mean_rb",4.26630562751455,0.40386315689734
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn_group","TabPFN-ID","median_rb",1.43166068915842,0.663947391592175
+"PUMS 2023 renters","03_pums_rent","insample","merf","MERF","mean_rrmse",18.6940110094483,0.252924525674318
+"PUMS 2023 renters","03_pums_rent","insample","merf","MERF","median_rrmse",13.9310228159984,0.626199013691363
+"PUMS 2023 renters","03_pums_rent","insample","merf","MERF","mean_rb",6.87906228423374,0.39375735813761
+"PUMS 2023 renters","03_pums_rent","insample","merf","MERF","median_rb",2.9340727654731,0.813326786340172
+"PUMS 2023 renters","03_pums_rent","insample","catboost_em","CatBoost-EM","mean_rrmse",18.5205019379027,0.253890497591876
+"PUMS 2023 renters","03_pums_rent","insample","catboost_em","CatBoost-EM","median_rrmse",13.4871518618205,0.58215369825824
+"PUMS 2023 renters","03_pums_rent","insample","catboost_em","CatBoost-EM","mean_rb",5.94875542303383,0.453316658506312
+"PUMS 2023 renters","03_pums_rent","insample","catboost_em","CatBoost-EM","median_rb",1.85951301986775,0.859297319326356
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn_em","TabPFN-EM","mean_rrmse",18.8069097096143,0.254794284892539
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn_em","TabPFN-EM","median_rrmse",13.8538413309546,0.634062384443791
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn_em","TabPFN-EM","mean_rb",6.95410175752719,0.418256542999174
+"PUMS 2023 renters","03_pums_rent","insample","tabpfn_em","TabPFN-EM","median_rb",2.44837620780458,0.847713665587655
+"PUMS 2023 renters","03_pums_rent","oos","lmm","LMM","mean_rrmse",28.325223987591,0.169358123141882
+"PUMS 2023 renters","03_pums_rent","oos","lmm","LMM","median_rrmse",29.0810455449812,0.126168455425847
+"PUMS 2023 renters","03_pums_rent","oos","lmm","LMM","mean_rb",5.70249977933574,0.441537931721696
+"PUMS 2023 renters","03_pums_rent","oos","lmm","LMM","median_rb",12.310750080795,0.480322840654248
+"PUMS 2023 renters","03_pums_rent","oos","rf","RF","mean_rrmse",30.1022495789981,0.171049992653644
+"PUMS 2023 renters","03_pums_rent","oos","rf","RF","median_rrmse",31.1689679410659,0.456345055657477
+"PUMS 2023 renters","03_pums_rent","oos","rf","RF","mean_rb",12.7844644545579,0.329634578793959
+"PUMS 2023 renters","03_pums_rent","oos","rf","RF","median_rb",19.4397477313867,0.392264944710646
+"PUMS 2023 renters","03_pums_rent","oos","catboost","CatBoost","mean_rrmse",29.8544617080069,0.19667588067827
+"PUMS 2023 renters","03_pums_rent","oos","catboost","CatBoost","median_rrmse",30.2324165792137,0.533761041568876
+"PUMS 2023 renters","03_pums_rent","oos","catboost","CatBoost","mean_rb",12.3905371117594,0.360852764887513
+"PUMS 2023 renters","03_pums_rent","oos","catboost","CatBoost","median_rb",18.8840136627939,0.456312477008126
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn","TabPFN","mean_rrmse",30.0702361944042,0.189102573974317
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn","TabPFN","median_rrmse",31.1468385902449,0.426995288757305
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn","TabPFN","mean_rb",12.7816833542456,0.339219837481719
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn","TabPFN","median_rb",19.4322146990287,0.392886441047324
+"PUMS 2023 renters","03_pums_rent","oos","rf_group","RF-ID","mean_rrmse",33.0761829446882,0.550256333470363
+"PUMS 2023 renters","03_pums_rent","oos","rf_group","RF-ID","median_rrmse",27.9568153437516,0.60142564097564
+"PUMS 2023 renters","03_pums_rent","oos","rf_group","RF-ID","mean_rb",17.3274107353819,0.590431769410152
+"PUMS 2023 renters","03_pums_rent","oos","rf_group","RF-ID","median_rb",22.7220342679867,0.923373581702774
+"PUMS 2023 renters","03_pums_rent","oos","catboost_group","CatBoost-ID","mean_rrmse",27.7672240326651,0.422623076621629
+"PUMS 2023 renters","03_pums_rent","oos","catboost_group","CatBoost-ID","median_rrmse",28.079250435612,0.337327246742847
+"PUMS 2023 renters","03_pums_rent","oos","catboost_group","CatBoost-ID","mean_rb",2.72480075532239,1.07318002445946
+"PUMS 2023 renters","03_pums_rent","oos","catboost_group","CatBoost-ID","median_rb",9.12051896481938,1.09633015469872
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn_group","TabPFN-ID","mean_rrmse",28.7458249203681,0.166655593808489
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn_group","TabPFN-ID","median_rrmse",27.6957533082175,0.151159194952495
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn_group","TabPFN-ID","mean_rb",9.27865316511222,0.318006187973809
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn_group","TabPFN-ID","median_rb",15.815559435897,0.358379075364855
+"PUMS 2023 renters","03_pums_rent","oos","merf","MERF","mean_rrmse",28.1297254159524,0.193531006043388
+"PUMS 2023 renters","03_pums_rent","oos","merf","MERF","median_rrmse",28.0195706163251,0.21722820083217
+"PUMS 2023 renters","03_pums_rent","oos","merf","MERF","mean_rb",7.29007359653725,0.404247477298332
+"PUMS 2023 renters","03_pums_rent","oos","merf","MERF","median_rb",13.6566486635102,0.476058789130042
+"PUMS 2023 renters","03_pums_rent","oos","catboost_em","CatBoost-EM","mean_rrmse",27.3237269893206,0.222832058932961
+"PUMS 2023 renters","03_pums_rent","oos","catboost_em","CatBoost-EM","median_rrmse",27.629167387436,0.151965444138061
+"PUMS 2023 renters","03_pums_rent","oos","catboost_em","CatBoost-EM","mean_rb",5.34992632554958,0.465885161860734
+"PUMS 2023 renters","03_pums_rent","oos","catboost_em","CatBoost-EM","median_rb",11.3756049502218,0.566817029189796
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn_em","TabPFN-EM","mean_rrmse",28.242829724045,0.199027889731379
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn_em","TabPFN-EM","median_rrmse",27.856608915332,0.174901650723603
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn_em","TabPFN-EM","mean_rb",7.61686184595528,0.441490866785374
+"PUMS 2023 renters","03_pums_rent","oos","tabpfn_em","TabPFN-EM","median_rb",14.0056289154586,0.503198007466277
+"FDZ BEE 2017","02_fdz_bee","insample","direct","Direct","mean_rrmse",11.279943126852,0.346491715618109
+"FDZ BEE 2017","02_fdz_bee","insample","direct","Direct","median_rrmse",9.99911046624323,0.462067503691292
+"FDZ BEE 2017","02_fdz_bee","insample","direct","Direct","mean_rb",-0.0176157933289686,0.453478017759772
+"FDZ BEE 2017","02_fdz_bee","insample","direct","Direct","median_rb",0.202653847233414,0.705073440602315
+"FDZ BEE 2017","02_fdz_bee","insample","lmm","LMM","mean_rrmse",8.2245851460169,0.269284909783849
+"FDZ BEE 2017","02_fdz_bee","insample","lmm","LMM","median_rrmse",7.38999651609478,0.419046409915453
+"FDZ BEE 2017","02_fdz_bee","insample","lmm","LMM","mean_rb",0.199202194899264,0.400813288403308
+"FDZ BEE 2017","02_fdz_bee","insample","lmm","LMM","median_rb",-0.424592488078805,0.517791697111312
+"FDZ BEE 2017","02_fdz_bee","insample","rf","RF","mean_rrmse",9.26117932527513,0.18297590950402
+"FDZ BEE 2017","02_fdz_bee","insample","rf","RF","median_rrmse",6.72124204934705,0.259222928915589
+"FDZ BEE 2017","02_fdz_bee","insample","rf","RF","mean_rb",1.39131520073123,0.417308412870923
+"FDZ BEE 2017","02_fdz_bee","insample","rf","RF","median_rb",0.0996836420063584,0.487853009536469
+"FDZ BEE 2017","02_fdz_bee","insample","catboost","CatBoost","mean_rrmse",10.1540078090861,0.266815639603759
+"FDZ BEE 2017","02_fdz_bee","insample","catboost","CatBoost","median_rrmse",8.01430043137179,0.388128779933471
+"FDZ BEE 2017","02_fdz_bee","insample","catboost","CatBoost","mean_rb",1.90225003340506,0.565612399862937
+"FDZ BEE 2017","02_fdz_bee","insample","catboost","CatBoost","median_rb",1.40412954773539,0.599108172476171
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn","TabPFN","mean_rrmse",9.27331237928507,0.156152843548765
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn","TabPFN","median_rrmse",6.44552673911722,0.276436177904966
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn","TabPFN","mean_rb",1.01221959799482,0.398108666254312
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn","TabPFN","median_rb",-0.44207029878037,0.509920460670565
+"FDZ BEE 2017","02_fdz_bee","insample","rf_group","RF-ID","mean_rrmse",8.20290059905733,0.225565787741115
+"FDZ BEE 2017","02_fdz_bee","insample","rf_group","RF-ID","median_rrmse",6.37393133083172,0.362747922857376
+"FDZ BEE 2017","02_fdz_bee","insample","rf_group","RF-ID","mean_rb",1.24384509970488,0.423388535046645
+"FDZ BEE 2017","02_fdz_bee","insample","rf_group","RF-ID","median_rb",0.731814591164567,0.513962309276506
+"FDZ BEE 2017","02_fdz_bee","insample","catboost_group","CatBoost-ID","mean_rrmse",10.6292556477643,0.304178237383316
+"FDZ BEE 2017","02_fdz_bee","insample","catboost_group","CatBoost-ID","median_rrmse",8.97759473050392,0.431130593045372
+"FDZ BEE 2017","02_fdz_bee","insample","catboost_group","CatBoost-ID","mean_rb",0.739757927192805,0.664097799340005
+"FDZ BEE 2017","02_fdz_bee","insample","catboost_group","CatBoost-ID","median_rb",0.596912283821468,0.758626887148343
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn_group","TabPFN-ID","mean_rrmse",8.00067821351297,0.187075981856679
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn_group","TabPFN-ID","median_rrmse",5.93794649813521,0.299983233835963
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn_group","TabPFN-ID","mean_rb",0.61692686760795,0.393798643124588
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn_group","TabPFN-ID","median_rb",-0.324762547706145,0.50896608908112
+"FDZ BEE 2017","02_fdz_bee","insample","merf","MERF","mean_rrmse",8.53467134598278,0.208450604986921
+"FDZ BEE 2017","02_fdz_bee","insample","merf","MERF","median_rrmse",6.4509926370415,0.350752974730315
+"FDZ BEE 2017","02_fdz_bee","insample","merf","MERF","mean_rb",1.15906632575186,0.418993425943865
+"FDZ BEE 2017","02_fdz_bee","insample","merf","MERF","median_rb",0.288399363814339,0.531424472799253
+"FDZ BEE 2017","02_fdz_bee","insample","catboost_em","CatBoost-EM","mean_rrmse",9.56026064405154,0.220951532727216
+"FDZ BEE 2017","02_fdz_bee","insample","catboost_em","CatBoost-EM","median_rrmse",8.05520391696171,0.352901279826095
+"FDZ BEE 2017","02_fdz_bee","insample","catboost_em","CatBoost-EM","mean_rb",1.74285932145877,0.605947505552844
+"FDZ BEE 2017","02_fdz_bee","insample","catboost_em","CatBoost-EM","median_rb",0.957643085188206,0.694185046312333
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn_em","TabPFN-EM","mean_rrmse",8.19365542165696,0.200725758151502
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn_em","TabPFN-EM","median_rrmse",6.37740694548561,0.297379553801479
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn_em","TabPFN-EM","mean_rb",0.579426019159275,0.393420851705758
+"FDZ BEE 2017","02_fdz_bee","insample","tabpfn_em","TabPFN-EM","median_rb",-0.613243937239999,0.489379038683807
+"FDZ BEE 2017","02_fdz_bee","oos","lmm","LMM","mean_rrmse",27.7863623176709,0.487088973321725
+"FDZ BEE 2017","02_fdz_bee","oos","lmm","LMM","median_rrmse",9.75335617359271,0.860792556084412
+"FDZ BEE 2017","02_fdz_bee","oos","lmm","LMM","mean_rb",-20.8000839740928,0.417338840747284
+"FDZ BEE 2017","02_fdz_bee","oos","lmm","LMM","median_rb",-4.08957286745254,1.27919602667082
+"FDZ BEE 2017","02_fdz_bee","oos","rf","RF","mean_rrmse",25.7746320965067,0.338241142569572
+"FDZ BEE 2017","02_fdz_bee","oos","rf","RF","median_rrmse",8.97703310881312,0.793776920451783
+"FDZ BEE 2017","02_fdz_bee","oos","rf","RF","mean_rb",-21.2245579671592,0.388820179210985
+"FDZ BEE 2017","02_fdz_bee","oos","rf","RF","median_rb",-7.23146858554939,0.744909249459296
+"FDZ BEE 2017","02_fdz_bee","oos","catboost","CatBoost","mean_rrmse",26.1816212387479,0.35531320240589
+"FDZ BEE 2017","02_fdz_bee","oos","catboost","CatBoost","median_rrmse",8.7512641634833,0.598193600247379
+"FDZ BEE 2017","02_fdz_bee","oos","catboost","CatBoost","mean_rb",-21.2619851575983,0.474823593503559
+"FDZ BEE 2017","02_fdz_bee","oos","catboost","CatBoost","median_rb",-6.50211824680632,0.787431698942569
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn","TabPFN","mean_rrmse",25.6504276733453,0.260976505380861
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn","TabPFN","median_rrmse",8.01996114477015,0.601669190507807
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn","TabPFN","mean_rb",-21.4460264008766,0.345728313422861
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn","TabPFN","median_rb",-6.72877967712738,0.612233561309285
+"FDZ BEE 2017","02_fdz_bee","oos","rf_group","RF-ID","mean_rrmse",29.9309839611686,0.434889819200175
+"FDZ BEE 2017","02_fdz_bee","oos","rf_group","RF-ID","median_rrmse",16.0090900872075,0.913243153273035
+"FDZ BEE 2017","02_fdz_bee","oos","rf_group","RF-ID","mean_rb",-23.9519989190121,0.558583186034542
+"FDZ BEE 2017","02_fdz_bee","oos","rf_group","RF-ID","median_rb",-14.4593690672484,0.952650204150585
+"FDZ BEE 2017","02_fdz_bee","oos","catboost_group","CatBoost-ID","mean_rrmse",28.5346800151698,0.68818750678245
+"FDZ BEE 2017","02_fdz_bee","oos","catboost_group","CatBoost-ID","median_rrmse",11.4970367018206,1.00235394678738
+"FDZ BEE 2017","02_fdz_bee","oos","catboost_group","CatBoost-ID","mean_rb",-22.4177212924876,0.938902224127794
+"FDZ BEE 2017","02_fdz_bee","oos","catboost_group","CatBoost-ID","median_rb",-8.59635546002205,1.10093009297505
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn_group","TabPFN-ID","mean_rrmse",25.7328955645918,0.232901085929934
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn_group","TabPFN-ID","median_rrmse",7.71716492005572,0.400025102448166
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn_group","TabPFN-ID","mean_rb",-20.8108716943205,0.33638120129496
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn_group","TabPFN-ID","median_rb",-6.74509908634486,0.479093728993041
+"FDZ BEE 2017","02_fdz_bee","oos","merf","MERF","mean_rrmse",26.5156382459725,0.405823432363036
+"FDZ BEE 2017","02_fdz_bee","oos","merf","MERF","median_rrmse",9.36229241413689,0.628341958432398
+"FDZ BEE 2017","02_fdz_bee","oos","merf","MERF","mean_rb",-20.1018546431019,0.372508739999617
+"FDZ BEE 2017","02_fdz_bee","oos","merf","MERF","median_rb",-6.79575718674017,0.798627842639535
+"FDZ BEE 2017","02_fdz_bee","oos","catboost_em","CatBoost-EM","mean_rrmse",26.6966770643527,0.428188367827374
+"FDZ BEE 2017","02_fdz_bee","oos","catboost_em","CatBoost-EM","median_rrmse",11.2908278400469,1.04898907017748
+"FDZ BEE 2017","02_fdz_bee","oos","catboost_em","CatBoost-EM","mean_rb",-19.431705608438,0.539381621974036
+"FDZ BEE 2017","02_fdz_bee","oos","catboost_em","CatBoost-EM","median_rb",-5.02736415761607,0.782777999521226
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn_em","TabPFN-EM","mean_rrmse",26.3009584562581,0.27443558930493
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn_em","TabPFN-EM","median_rrmse",8.3767948736422,0.457318959985763
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn_em","TabPFN-EM","mean_rb",-20.6423470826028,0.307484420289592
+"FDZ BEE 2017","02_fdz_bee","oos","tabpfn_em","TabPFN-EM","median_rb",-7.18425733363764,0.593829028440745
+"Afrobarometer R9","10_afrobarometer_lpi","insample","direct","Direct","mean_rrmse",13.6967913343582,0.324707862335096
+"Afrobarometer R9","10_afrobarometer_lpi","insample","direct","Direct","median_rrmse",12.794211978044,0.446448308324688
+"Afrobarometer R9","10_afrobarometer_lpi","insample","direct","Direct","mean_rb",0.501150939069995,0.362610796927993
+"Afrobarometer R9","10_afrobarometer_lpi","insample","direct","Direct","median_rb",0.784011074743142,0.420048805201615
+"Afrobarometer R9","10_afrobarometer_lpi","insample","lmm","LMM","mean_rrmse",12.0489959526227,0.2321632113969
+"Afrobarometer R9","10_afrobarometer_lpi","insample","lmm","LMM","median_rrmse",10.4862750012115,0.30981595274211
+"Afrobarometer R9","10_afrobarometer_lpi","insample","lmm","LMM","mean_rb",2.2386976344463,0.34491521800618
+"Afrobarometer R9","10_afrobarometer_lpi","insample","lmm","LMM","median_rb",0.220309977236169,0.470008401661724
+"Afrobarometer R9","10_afrobarometer_lpi","insample","rf","RF","mean_rrmse",21.2668210840378,0.0953903889091594
+"Afrobarometer R9","10_afrobarometer_lpi","insample","rf","RF","median_rrmse",9.67321383325963,0.330770998973147
+"Afrobarometer R9","10_afrobarometer_lpi","insample","rf","RF","mean_rb",7.44542905613899,0.31866579648888
+"Afrobarometer R9","10_afrobarometer_lpi","insample","rf","RF","median_rb",0.577945573869093,0.305428679579999
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost","CatBoost","mean_rrmse",21.4138238363983,0.132580155108023
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost","CatBoost","median_rrmse",9.51358567069852,0.200922357000104
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost","CatBoost","mean_rb",7.90262978008109,0.368317813776358
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost","CatBoost","median_rb",1.05776915332204,0.346300026980081
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn","TabPFN","mean_rrmse",21.3721527754528,0.0827118902559977
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn","TabPFN","median_rrmse",8.82007545830548,0.165523157703761
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn","TabPFN","mean_rb",8.48005314303805,0.327298379543045
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn","TabPFN","median_rb",2.27274125126531,0.313240921832739
+"Afrobarometer R9","10_afrobarometer_lpi","insample","rf_group","RF-ID","mean_rrmse",17.1917640633917,0.186074808760154
+"Afrobarometer R9","10_afrobarometer_lpi","insample","rf_group","RF-ID","median_rrmse",7.90528684770337,0.400058244815733
+"Afrobarometer R9","10_afrobarometer_lpi","insample","rf_group","RF-ID","mean_rb",5.58173588272183,0.365038951246662
+"Afrobarometer R9","10_afrobarometer_lpi","insample","rf_group","RF-ID","median_rb",-1.66043025989669,0.451868013588627
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost_group","CatBoost-ID","mean_rrmse",15.8940627155122,0.242604355472332
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost_group","CatBoost-ID","median_rrmse",10.298584135837,0.492017944849212
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost_group","CatBoost-ID","mean_rb",4.36063172905627,0.497367117969879
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost_group","CatBoost-ID","median_rb",1.15402810743981,0.609132199749474
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn_group","TabPFN-ID","mean_rrmse",12.3161314111696,0.225602671281322
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn_group","TabPFN-ID","median_rrmse",10.3486254167603,0.360091539010758
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn_group","TabPFN-ID","mean_rb",3.14254824196419,0.379641588711387
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn_group","TabPFN-ID","median_rb",1.29134119824641,0.509627757702315
+"Afrobarometer R9","10_afrobarometer_lpi","insample","merf","MERF","mean_rrmse",12.2173405519762,0.231170817803528
+"Afrobarometer R9","10_afrobarometer_lpi","insample","merf","MERF","median_rrmse",10.3750145931767,0.323117120050574
+"Afrobarometer R9","10_afrobarometer_lpi","insample","merf","MERF","mean_rb",2.35181561388115,0.345437055486746
+"Afrobarometer R9","10_afrobarometer_lpi","insample","merf","MERF","median_rb",0.0740555863122573,0.469155820736469
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost_em","CatBoost-EM","mean_rrmse",12.4336489011735,0.238504602069549
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost_em","CatBoost-EM","median_rrmse",10.3501237286827,0.318251172026818
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost_em","CatBoost-EM","mean_rb",2.52129561146214,0.408811930940632
+"Afrobarometer R9","10_afrobarometer_lpi","insample","catboost_em","CatBoost-EM","median_rb",0.365872999062796,0.506111586376832
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn_em","TabPFN-EM","mean_rrmse",12.2140973479387,0.239618861330524
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn_em","TabPFN-EM","median_rrmse",10.4091795071495,0.327414173351136
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn_em","TabPFN-EM","mean_rb",2.52589051676847,0.347945358157217
+"Afrobarometer R9","10_afrobarometer_lpi","insample","tabpfn_em","TabPFN-EM","median_rb",0.192866850394551,0.460285845916364
+"Afrobarometer R9","10_afrobarometer_lpi","oos","lmm","LMM","mean_rrmse",52.6841437049619,0.45915002592457
+"Afrobarometer R9","10_afrobarometer_lpi","oos","lmm","LMM","median_rrmse",21.9002284044521,0.216629828996105
+"Afrobarometer R9","10_afrobarometer_lpi","oos","lmm","LMM","mean_rb",36.9929570240815,0.582179941917809
+"Afrobarometer R9","10_afrobarometer_lpi","oos","lmm","LMM","median_rb",4.32832415866891,0.493393350509898
+"Afrobarometer R9","10_afrobarometer_lpi","oos","rf","RF","mean_rrmse",52.6346645556658,0.371979162100034
+"Afrobarometer R9","10_afrobarometer_lpi","oos","rf","RF","median_rrmse",20.4895274500322,0.220204866463542
+"Afrobarometer R9","10_afrobarometer_lpi","oos","rf","RF","mean_rb",35.7223997587775,0.496916830513009
+"Afrobarometer R9","10_afrobarometer_lpi","oos","rf","RF","median_rb",1.03329440035936,0.37676239981283
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost","CatBoost","mean_rrmse",52.6540775669113,0.453993556197391
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost","CatBoost","median_rrmse",19.6064039476895,0.290511959403277
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost","CatBoost","mean_rb",36.2255124425414,0.614865717849001
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost","CatBoost","median_rb",1.29867458674295,0.379334106799141
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn","TabPFN","mean_rrmse",51.1513311592486,0.374706473629225
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn","TabPFN","median_rrmse",20.8553840208954,0.19762302328492
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn","TabPFN","mean_rb",35.5510797692213,0.496239076590066
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn","TabPFN","median_rb",2.84968001108439,0.410662520519529
+"Afrobarometer R9","10_afrobarometer_lpi","oos","rf_group","RF-ID","mean_rrmse",50.5572325206949,0.560739459132075
+"Afrobarometer R9","10_afrobarometer_lpi","oos","rf_group","RF-ID","median_rrmse",23.4275249308596,0.432023217357468
+"Afrobarometer R9","10_afrobarometer_lpi","oos","rf_group","RF-ID","mean_rb",29.6516702676436,0.823863295703258
+"Afrobarometer R9","10_afrobarometer_lpi","oos","rf_group","RF-ID","median_rb",5.20758758348038,0.79455417055082
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost_group","CatBoost-ID","mean_rrmse",57.8540100745396,0.805791570869181
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost_group","CatBoost-ID","median_rrmse",20.2602398975139,0.288753259912176
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost_group","CatBoost-ID","mean_rb",43.2636561873302,1.42226085146282
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost_group","CatBoost-ID","median_rb",4.76757883454015,0.980368947720659
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn_group","TabPFN-ID","mean_rrmse",52.5909333647345,0.370587310433049
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn_group","TabPFN-ID","median_rrmse",20.7907464807472,0.226008527410618
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn_group","TabPFN-ID","mean_rb",37.0081617598348,0.525507725900449
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn_group","TabPFN-ID","median_rb",2.99641387127412,0.492295191022186
+"Afrobarometer R9","10_afrobarometer_lpi","oos","merf","MERF","mean_rrmse",55.4015777448932,0.374176010263453
+"Afrobarometer R9","10_afrobarometer_lpi","oos","merf","MERF","median_rrmse",20.0926049343123,0.16989467523875
+"Afrobarometer R9","10_afrobarometer_lpi","oos","merf","MERF","mean_rb",39.0291993535629,0.525023559525113
+"Afrobarometer R9","10_afrobarometer_lpi","oos","merf","MERF","median_rb",1.88547788607478,0.385765735760129
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost_em","CatBoost-EM","mean_rrmse",55.3907835815869,0.465349458941008
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost_em","CatBoost-EM","median_rrmse",19.0569287727812,0.244137928214121
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost_em","CatBoost-EM","mean_rb",39.2633513351624,0.724797352385112
+"Afrobarometer R9","10_afrobarometer_lpi","oos","catboost_em","CatBoost-EM","median_rb",1.94259691571984,0.425571569490934
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn_em","TabPFN-EM","mean_rrmse",53.6984733786187,0.387804524323079
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn_em","TabPFN-EM","median_rrmse",20.9182214607165,0.185190467775501
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn_em","TabPFN-EM","mean_rb",38.478157599933,0.533470077677134
+"Afrobarometer R9","10_afrobarometer_lpi","oos","tabpfn_em","TabPFN-EM","median_rb",3.56605464215179,0.393406656364761
+"PNADC 2024","15_pnadc_renda","insample","direct","Direct","mean_rrmse",3.80308013011914,0.0607721384071644
+"PNADC 2024","15_pnadc_renda","insample","direct","Direct","median_rrmse",3.49757395515541,0.151239986000904
+"PNADC 2024","15_pnadc_renda","insample","direct","Direct","mean_rb",0.0868237364857518,0.103169627851547
+"PNADC 2024","15_pnadc_renda","insample","direct","Direct","median_rb",-0.0879260471419838,0.0912953483088875
+"PNADC 2024","15_pnadc_renda","insample","lmm","LMM","mean_rrmse",2.44445939148302,0.0386464995037718
+"PNADC 2024","15_pnadc_renda","insample","lmm","LMM","median_rrmse",2.1839101999161,0.096628636288493
+"PNADC 2024","15_pnadc_renda","insample","lmm","LMM","mean_rb",0.27590651732086,0.0832899871734844
+"PNADC 2024","15_pnadc_renda","insample","lmm","LMM","median_rb",0.220835989601752,0.14569226355989
+"PNADC 2024","15_pnadc_renda","insample","rf","RF","mean_rrmse",3.18275310362245,0.0287639807693143
+"PNADC 2024","15_pnadc_renda","insample","rf","RF","median_rrmse",2.74252639388183,0.0572558064390001
+"PNADC 2024","15_pnadc_renda","insample","rf","RF","mean_rb",0.778472395842813,0.0787213379447159
+"PNADC 2024","15_pnadc_renda","insample","rf","RF","median_rb",0.938756486289884,0.0983899180437563
+"PNADC 2024","15_pnadc_renda","insample","catboost","CatBoost","mean_rrmse",3.07943008431616,0.031707709544787
+"PNADC 2024","15_pnadc_renda","insample","catboost","CatBoost","median_rrmse",2.78642344885702,0.0890060697326332
+"PNADC 2024","15_pnadc_renda","insample","catboost","CatBoost","mean_rb",0.366802863053585,0.0872915320048731
+"PNADC 2024","15_pnadc_renda","insample","catboost","CatBoost","median_rb",0.00966252087917075,0.103730669288295
+"PNADC 2024","15_pnadc_renda","insample","tabpfn","TabPFN","mean_rrmse",3.12248483348769,0.0310694032546708
+"PNADC 2024","15_pnadc_renda","insample","tabpfn","TabPFN","median_rrmse",3.02473249579456,0.0900231863411398
+"PNADC 2024","15_pnadc_renda","insample","tabpfn","TabPFN","mean_rb",0.565815252365841,0.0814853255674011
+"PNADC 2024","15_pnadc_renda","insample","tabpfn","TabPFN","median_rb",0.448306414702885,0.163583863027827
+"PNADC 2024","15_pnadc_renda","insample","rf_group","RF-ID","mean_rrmse",1.80738180721405,0.0321754914216856
+"PNADC 2024","15_pnadc_renda","insample","rf_group","RF-ID","median_rrmse",1.4499474625739,0.0502455007693417
+"PNADC 2024","15_pnadc_renda","insample","rf_group","RF-ID","mean_rb",0.130111658229283,0.0807357093332161
+"PNADC 2024","15_pnadc_renda","insample","rf_group","RF-ID","median_rb",-0.0855962415176471,0.0931422765805869
+"PNADC 2024","15_pnadc_renda","insample","catboost_group","CatBoost-ID","mean_rrmse",2.70241597650383,0.0359111387099649
+"PNADC 2024","15_pnadc_renda","insample","catboost_group","CatBoost-ID","median_rrmse",2.72445902075157,0.105146907636526
+"PNADC 2024","15_pnadc_renda","insample","catboost_group","CatBoost-ID","mean_rb",-0.137254901838635,0.0974204575191955
+"PNADC 2024","15_pnadc_renda","insample","catboost_group","CatBoost-ID","median_rb",0.133837897952911,0.14451263242477
+"PNADC 2024","15_pnadc_renda","insample","tabpfn_group","TabPFN-ID","mean_rrmse",2.20561505978736,0.0371159160564203
+"PNADC 2024","15_pnadc_renda","insample","tabpfn_group","TabPFN-ID","median_rrmse",2.0709029597658,0.0805909460645139
+"PNADC 2024","15_pnadc_renda","insample","tabpfn_group","TabPFN-ID","mean_rb",0.204957095449183,0.0844293730696948
+"PNADC 2024","15_pnadc_renda","insample","tabpfn_group","TabPFN-ID","median_rb",-0.00681600502747665,0.0882582904701017
+"PNADC 2024","15_pnadc_renda","insample","merf","MERF","mean_rrmse",2.47825949394841,0.0389655208408273
+"PNADC 2024","15_pnadc_renda","insample","merf","MERF","median_rrmse",2.08839742145933,0.0785066178342495
+"PNADC 2024","15_pnadc_renda","insample","merf","MERF","mean_rb",0.491774714708305,0.0760881625162301
+"PNADC 2024","15_pnadc_renda","insample","merf","MERF","median_rb",0.0335695068851547,0.131577604673159
+"PNADC 2024","15_pnadc_renda","insample","catboost_em","CatBoost-EM","mean_rrmse",2.46869590009191,0.0405262621195603
+"PNADC 2024","15_pnadc_renda","insample","catboost_em","CatBoost-EM","median_rrmse",2.11269657653235,0.0936403874345621
+"PNADC 2024","15_pnadc_renda","insample","catboost_em","CatBoost-EM","mean_rb",0.228731801221427,0.0837846396288607
+"PNADC 2024","15_pnadc_renda","insample","catboost_em","CatBoost-EM","median_rb",0.221945154942543,0.15122612145322
+"PNADC 2024","15_pnadc_renda","insample","tabpfn_em","TabPFN-EM","mean_rrmse",2.46288976868584,0.0370551351530576
+"PNADC 2024","15_pnadc_renda","insample","tabpfn_em","TabPFN-EM","median_rrmse",2.14397575056018,0.09093688476893
+"PNADC 2024","15_pnadc_renda","insample","tabpfn_em","TabPFN-EM","mean_rb",0.39178267253432,0.0793314514896207
+"PNADC 2024","15_pnadc_renda","insample","tabpfn_em","TabPFN-EM","median_rb",0.251963443995351,0.153694304435936
+"PNADC 2024","15_pnadc_renda","oos","lmm","LMM","mean_rrmse",4.01526173813129,0.0455089567432046
+"PNADC 2024","15_pnadc_renda","oos","lmm","LMM","median_rrmse",2.58430680892158,0.0701954791064509
+"PNADC 2024","15_pnadc_renda","oos","lmm","LMM","mean_rb",2.18362313769924,0.083166938939355
+"PNADC 2024","15_pnadc_renda","oos","lmm","LMM","median_rb",0.738775732863581,0.0789237943226947
+"PNADC 2024","15_pnadc_renda","oos","rf","RF","mean_rrmse",4.1490390549063,0.0471623028777688
+"PNADC 2024","15_pnadc_renda","oos","rf","RF","median_rrmse",2.24845938469003,0.0396044736494538
+"PNADC 2024","15_pnadc_renda","oos","rf","RF","mean_rb",2.59335349515264,0.0784569977368808
+"PNADC 2024","15_pnadc_renda","oos","rf","RF","median_rb",1.04156696370143,0.0634630252684935
+"PNADC 2024","15_pnadc_renda","oos","catboost","CatBoost","mean_rrmse",3.89237990532482,0.039176993913074
+"PNADC 2024","15_pnadc_renda","oos","catboost","CatBoost","median_rrmse",2.25899783661245,0.0699022219940663
+"PNADC 2024","15_pnadc_renda","oos","catboost","CatBoost","mean_rb",2.13567295237241,0.0880111652828993
+"PNADC 2024","15_pnadc_renda","oos","catboost","CatBoost","median_rb",1.080522869741,0.0767304374732449
+"PNADC 2024","15_pnadc_renda","oos","tabpfn","TabPFN","mean_rrmse",3.99871555393634,0.0460094353279221
+"PNADC 2024","15_pnadc_renda","oos","tabpfn","TabPFN","median_rrmse",2.31080450072064,0.0768183586729556
+"PNADC 2024","15_pnadc_renda","oos","tabpfn","TabPFN","mean_rb",2.37863043619773,0.0807153151167492
+"PNADC 2024","15_pnadc_renda","oos","tabpfn","TabPFN","median_rb",1.1093824328075,0.0712566574933877
+"PNADC 2024","15_pnadc_renda","oos","rf_group","RF-ID","mean_rrmse",3.00587033518381,0.051008517595838
+"PNADC 2024","15_pnadc_renda","oos","rf_group","RF-ID","median_rrmse",1.93327036025148,0.117177442761823
+"PNADC 2024","15_pnadc_renda","oos","rf_group","RF-ID","mean_rb",1.21346659496159,0.0973840358846552
+"PNADC 2024","15_pnadc_renda","oos","rf_group","RF-ID","median_rb",-0.205191223825949,0.0884963644793103
+"PNADC 2024","15_pnadc_renda","oos","catboost_group","CatBoost-ID","mean_rrmse",4.23572078822163,0.0529611957005752
+"PNADC 2024","15_pnadc_renda","oos","catboost_group","CatBoost-ID","median_rrmse",2.88905725312751,0.103358372753275
+"PNADC 2024","15_pnadc_renda","oos","catboost_group","CatBoost-ID","mean_rb",1.33268073011061,0.180729924554656
+"PNADC 2024","15_pnadc_renda","oos","catboost_group","CatBoost-ID","median_rb",-0.380888456044399,0.205778987325977
+"PNADC 2024","15_pnadc_renda","oos","tabpfn_group","TabPFN-ID","mean_rrmse",4.08165015076643,0.0471063720481657
+"PNADC 2024","15_pnadc_renda","oos","tabpfn_group","TabPFN-ID","median_rrmse",2.55182360234634,0.0640490388694436
+"PNADC 2024","15_pnadc_renda","oos","tabpfn_group","TabPFN-ID","mean_rb",2.43929731054901,0.0803724036446866
+"PNADC 2024","15_pnadc_renda","oos","tabpfn_group","TabPFN-ID","median_rb",0.676668943802495,0.0714199908428016
+"PNADC 2024","15_pnadc_renda","oos","merf","MERF","mean_rrmse",4.24175281037692,0.0410848343550683
+"PNADC 2024","15_pnadc_renda","oos","merf","MERF","median_rrmse",3.10265952259908,0.0671420810865775
+"PNADC 2024","15_pnadc_renda","oos","merf","MERF","mean_rb",2.43312569967381,0.076444032277471
+"PNADC 2024","15_pnadc_renda","oos","merf","MERF","median_rb",0.907104094367098,0.102812637627277
+"PNADC 2024","15_pnadc_renda","oos","catboost_em","CatBoost-EM","mean_rrmse",4.02062997458483,0.0440620815455206
+"PNADC 2024","15_pnadc_renda","oos","catboost_em","CatBoost-EM","median_rrmse",2.597041881475,0.0839815382106345
+"PNADC 2024","15_pnadc_renda","oos","catboost_em","CatBoost-EM","mean_rb",2.16935841780548,0.0900395464149722
+"PNADC 2024","15_pnadc_renda","oos","catboost_em","CatBoost-EM","median_rb",0.797836470528811,0.0933922069609449
+"PNADC 2024","15_pnadc_renda","oos","tabpfn_em","TabPFN-EM","mean_rrmse",4.14019176639219,0.0473379056864496
+"PNADC 2024","15_pnadc_renda","oos","tabpfn_em","TabPFN-EM","median_rrmse",2.55313333893279,0.0723499974983973
+"PNADC 2024","15_pnadc_renda","oos","tabpfn_em","TabPFN-EM","mean_rb",2.42831302683142,0.0801377035073897
+"PNADC 2024","15_pnadc_renda","oos","tabpfn_em","TabPFN-EM","median_rb",0.839230025792434,0.0786607194031048
+"RECS 2020","08_recs_electricity","insample","direct","Direct","mean_rrmse",22.9886967525547,0.486395112192508
+"RECS 2020","08_recs_electricity","insample","direct","Direct","median_rrmse",23.3881317280017,0.719515274981731
+"RECS 2020","08_recs_electricity","insample","direct","Direct","mean_rb",-0.0921297658250108,0.571278423836876
+"RECS 2020","08_recs_electricity","insample","direct","Direct","median_rb",0.24812421484459,0.731228864723678
+"RECS 2020","08_recs_electricity","insample","lmm","LMM","mean_rrmse",12.9195220326726,0.20272419484326
+"RECS 2020","08_recs_electricity","insample","lmm","LMM","median_rrmse",10.7821753203706,0.366405531343857
+"RECS 2020","08_recs_electricity","insample","lmm","LMM","mean_rb",1.95143162196408,0.450734286169223
+"RECS 2020","08_recs_electricity","insample","lmm","LMM","median_rb",-1.51651473858862,0.829794025526968
+"RECS 2020","08_recs_electricity","insample","rf","RF","mean_rrmse",16.6370983546761,0.207791318980505
+"RECS 2020","08_recs_electricity","insample","rf","RF","median_rrmse",13.7571752356988,0.265438946654476
+"RECS 2020","08_recs_electricity","insample","rf","RF","mean_rb",3.80951691682099,0.457877969648069
+"RECS 2020","08_recs_electricity","insample","rf","RF","median_rb",-2.13874296570605,0.499919661843544
+"RECS 2020","08_recs_electricity","insample","catboost","CatBoost","mean_rrmse",16.2770201314452,0.256503981852135
+"RECS 2020","08_recs_electricity","insample","catboost","CatBoost","median_rrmse",13.694533948552,0.422678261920308
+"RECS 2020","08_recs_electricity","insample","catboost","CatBoost","mean_rb",3.01311250633841,0.487917386689303
+"RECS 2020","08_recs_electricity","insample","catboost","CatBoost","median_rb",-2.59487935414593,0.622337376421413
+"RECS 2020","08_recs_electricity","insample","tabpfn","TabPFN","mean_rrmse",14.5454865865635,0.193796937011265
+"RECS 2020","08_recs_electricity","insample","tabpfn","TabPFN","median_rrmse",12.129965899495,0.267376028140606
+"RECS 2020","08_recs_electricity","insample","tabpfn","TabPFN","mean_rb",3.30917622285938,0.428564977969832
+"RECS 2020","08_recs_electricity","insample","tabpfn","TabPFN","median_rb",-1.45465266536676,0.480740690101848
+"RECS 2020","08_recs_electricity","insample","rf_group","RF-ID","mean_rrmse",16.72542189737,0.204873890040922
+"RECS 2020","08_recs_electricity","insample","rf_group","RF-ID","median_rrmse",13.2575628627913,0.371884292665592
+"RECS 2020","08_recs_electricity","insample","rf_group","RF-ID","mean_rb",3.99797505337263,0.454937922085904
+"RECS 2020","08_recs_electricity","insample","rf_group","RF-ID","median_rb",-2.90285194988708,0.507055566605224
+"RECS 2020","08_recs_electricity","insample","catboost_group","CatBoost-ID","mean_rrmse",14.6150147228661,0.318964840622912
+"RECS 2020","08_recs_electricity","insample","catboost_group","CatBoost-ID","median_rrmse",12.2608574467524,0.484875471733202
+"RECS 2020","08_recs_electricity","insample","catboost_group","CatBoost-ID","mean_rb",2.35423727046303,0.5300588786001
+"RECS 2020","08_recs_electricity","insample","catboost_group","CatBoost-ID","median_rb",-3.05141542920815,0.980463380134004
+"RECS 2020","08_recs_electricity","insample","tabpfn_group","TabPFN-ID","mean_rrmse",10.9342718653694,0.200664092572005
+"RECS 2020","08_recs_electricity","insample","tabpfn_group","TabPFN-ID","median_rrmse",9.6060313589292,0.267567870561238
+"RECS 2020","08_recs_electricity","insample","tabpfn_group","TabPFN-ID","mean_rb",1.80927982388922,0.431063516500382
+"RECS 2020","08_recs_electricity","insample","tabpfn_group","TabPFN-ID","median_rb",-0.272296756848307,0.629355086807118
+"RECS 2020","08_recs_electricity","insample","merf","MERF","mean_rrmse",14.3804514745029,0.202647701434201
+"RECS 2020","08_recs_electricity","insample","merf","MERF","median_rrmse",12.7970205094767,0.435257422522105
+"RECS 2020","08_recs_electricity","insample","merf","MERF","mean_rb",2.49846844816896,0.459315642452332
+"RECS 2020","08_recs_electricity","insample","merf","MERF","median_rb",-2.221732875896,0.764664973751585
+"RECS 2020","08_recs_electricity","insample","catboost_em","CatBoost-EM","mean_rrmse",14.8301048137432,0.228643581026468
+"RECS 2020","08_recs_electricity","insample","catboost_em","CatBoost-EM","median_rrmse",13.2663904561884,0.423848377481165
+"RECS 2020","08_recs_electricity","insample","catboost_em","CatBoost-EM","mean_rb",2.08051536174946,0.553470806478155
+"RECS 2020","08_recs_electricity","insample","catboost_em","CatBoost-EM","median_rb",-2.8080633560269,0.975522209966114
+"RECS 2020","08_recs_electricity","insample","tabpfn_em","TabPFN-EM","mean_rrmse",13.189196551488,0.185457650152401
+"RECS 2020","08_recs_electricity","insample","tabpfn_em","TabPFN-EM","median_rrmse",11.48087336877,0.346178470053132
+"RECS 2020","08_recs_electricity","insample","tabpfn_em","TabPFN-EM","mean_rb",2.36628744125702,0.447554316063877
+"RECS 2020","08_recs_electricity","insample","tabpfn_em","TabPFN-EM","median_rb",-1.94174358011697,0.763721050580614
+"RECS 2020","08_recs_electricity","oos","lmm","LMM","mean_rrmse",12.0839926068342,0.407082831546754
+"RECS 2020","08_recs_electricity","oos","lmm","LMM","median_rrmse",11.0996496690217,0.468490364651345
+"RECS 2020","08_recs_electricity","oos","lmm","LMM","mean_rb",7.38969759153423,0.497583094080041
+"RECS 2020","08_recs_electricity","oos","lmm","LMM","median_rb",5.13970220577088,0.51203896502241
+"RECS 2020","08_recs_electricity","oos","rf","RF","mean_rrmse",12.8866893780658,0.356176011920362
+"RECS 2020","08_recs_electricity","oos","rf","RF","median_rrmse",11.6207800408112,0.253678563686573
+"RECS 2020","08_recs_electricity","oos","rf","RF","mean_rb",8.14493176952121,0.499721932446831
+"RECS 2020","08_recs_electricity","oos","rf","RF","median_rb",3.78680532828818,0.481448000268441
+"RECS 2020","08_recs_electricity","oos","catboost","CatBoost","mean_rrmse",12.528316731648,0.342270030360388
+"RECS 2020","08_recs_electricity","oos","catboost","CatBoost","median_rrmse",11.5858796658818,0.348640818477521
+"RECS 2020","08_recs_electricity","oos","catboost","CatBoost","mean_rb",7.25456284331845,0.527430244311443
+"RECS 2020","08_recs_electricity","oos","catboost","CatBoost","median_rb",3.18721569407479,0.530178085708071
+"RECS 2020","08_recs_electricity","oos","tabpfn","TabPFN","mean_rrmse",11.5242434199476,0.317844572558463
+"RECS 2020","08_recs_electricity","oos","tabpfn","TabPFN","median_rrmse",10.5307277259072,0.253050351292574
+"RECS 2020","08_recs_electricity","oos","tabpfn","TabPFN","mean_rb",7.30354285277697,0.457615403378716
+"RECS 2020","08_recs_electricity","oos","tabpfn","TabPFN","median_rb",4.78991988320722,0.467510952445334
+"RECS 2020","08_recs_electricity","oos","rf_group","RF-ID","mean_rrmse",12.9558318528195,0.400308362558667
+"RECS 2020","08_recs_electricity","oos","rf_group","RF-ID","median_rrmse",12.066698659132,0.312497200419504
+"RECS 2020","08_recs_electricity","oos","rf_group","RF-ID","mean_rb",8.04135941860904,0.513815041012791
+"RECS 2020","08_recs_electricity","oos","rf_group","RF-ID","median_rb",4.54115991426118,0.517221222962844
+"RECS 2020","08_recs_electricity","oos","catboost_group","CatBoost-ID","mean_rrmse",13.9391155076547,0.508616344057253
+"RECS 2020","08_recs_electricity","oos","catboost_group","CatBoost-ID","median_rrmse",12.3542794326165,0.369102275940094
+"RECS 2020","08_recs_electricity","oos","catboost_group","CatBoost-ID","mean_rb",7.80144097544338,0.80552760912705
+"RECS 2020","08_recs_electricity","oos","catboost_group","CatBoost-ID","median_rb",3.46100445882574,0.773397484531197
+"RECS 2020","08_recs_electricity","oos","tabpfn_group","TabPFN-ID","mean_rrmse",11.7938463448659,0.328331796924788
+"RECS 2020","08_recs_electricity","oos","tabpfn_group","TabPFN-ID","median_rrmse",10.8401938925205,0.249032250427998
+"RECS 2020","08_recs_electricity","oos","tabpfn_group","TabPFN-ID","mean_rb",7.42694246806275,0.462768621455462
+"RECS 2020","08_recs_electricity","oos","tabpfn_group","TabPFN-ID","median_rb",4.44764410089519,0.462596626971901
+"RECS 2020","08_recs_electricity","oos","merf","MERF","mean_rrmse",14.0672346242499,0.39400172337149
+"RECS 2020","08_recs_electricity","oos","merf","MERF","median_rrmse",12.3197784879403,0.262360795749692
+"RECS 2020","08_recs_electricity","oos","merf","MERF","mean_rb",9.05985103155222,0.526050676177129
+"RECS 2020","08_recs_electricity","oos","merf","MERF","median_rb",4.32749277661354,0.499548514254696
+"RECS 2020","08_recs_electricity","oos","catboost_em","CatBoost-EM","mean_rrmse",13.4832785634403,0.350913462748096
+"RECS 2020","08_recs_electricity","oos","catboost_em","CatBoost-EM","median_rrmse",12.3283111221918,0.374169539804702
+"RECS 2020","08_recs_electricity","oos","catboost_em","CatBoost-EM","mean_rb",7.55772695696943,0.594528836552135
+"RECS 2020","08_recs_electricity","oos","catboost_em","CatBoost-EM","median_rb",3.14376542872621,0.616293255764348
+"RECS 2020","08_recs_electricity","oos","tabpfn_em","TabPFN-EM","mean_rrmse",12.4425608292616,0.338518289299884
+"RECS 2020","08_recs_electricity","oos","tabpfn_em","TabPFN-EM","median_rrmse",10.9257889786738,0.250535818246046
+"RECS 2020","08_recs_electricity","oos","tabpfn_em","TabPFN-EM","mean_rb",8.1111707997607,0.462000582493712
+"RECS 2020","08_recs_electricity","oos","tabpfn_em","TabPFN-EM","median_rb",4.45227800247691,0.44896130218913
+"PUMS 2023 owners","04_pums_homevalue","insample","direct","Direct","mean_rrmse",32.0198733124656,1.38524216939891
+"PUMS 2023 owners","04_pums_homevalue","insample","direct","Direct","median_rrmse",29.8181053598929,1.41906476398977
+"PUMS 2023 owners","04_pums_homevalue","insample","direct","Direct","mean_rb",-0.629831624150408,0.897075112403315
+"PUMS 2023 owners","04_pums_homevalue","insample","direct","Direct","median_rb",-0.279336482870087,0.894733538294156
+"PUMS 2023 owners","04_pums_homevalue","insample","lmm","LMM","mean_rrmse",24.6172438304364,0.738185120206015
+"PUMS 2023 owners","04_pums_homevalue","insample","lmm","LMM","median_rrmse",21.4134345477917,0.941597591521906
+"PUMS 2023 owners","04_pums_homevalue","insample","lmm","LMM","mean_rb",3.29013874548523,0.644167783766754
+"PUMS 2023 owners","04_pums_homevalue","insample","lmm","LMM","median_rb",1.49333234564037,1.1052137631764
+"PUMS 2023 owners","04_pums_homevalue","insample","rf","RF","mean_rrmse",31.2397666725056,0.324653566385739
+"PUMS 2023 owners","04_pums_homevalue","insample","rf","RF","median_rrmse",29.686155035504,0.396801603374843
+"PUMS 2023 owners","04_pums_homevalue","insample","rf","RF","mean_rb",7.87093929558058,0.613077573331086
+"PUMS 2023 owners","04_pums_homevalue","insample","rf","RF","median_rb",4.38152692181978,0.560860804416837
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost","CatBoost","mean_rrmse",30.6196283699405,0.290681724978374
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost","CatBoost","median_rrmse",28.4836868167102,0.330036493603092
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost","CatBoost","mean_rb",6.96799014222138,0.60143075407572
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost","CatBoost","median_rb",3.5500762407631,0.663522888244725
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn","TabPFN","mean_rrmse",31.1029700612541,0.308670435627358
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn","TabPFN","median_rrmse",30.2461247101712,0.338162213642756
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn","TabPFN","mean_rb",8.09785959092735,0.620051279337176
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn","TabPFN","median_rb",5.0691872679324,0.656748054256332
+"PUMS 2023 owners","04_pums_homevalue","insample","rf_group","RF-ID","mean_rrmse",30.7971424818701,0.642321455029913
+"PUMS 2023 owners","04_pums_homevalue","insample","rf_group","RF-ID","median_rrmse",29.0382434890189,0.689977005342944
+"PUMS 2023 owners","04_pums_homevalue","insample","rf_group","RF-ID","mean_rb",8.93490099544553,0.658823223313743
+"PUMS 2023 owners","04_pums_homevalue","insample","rf_group","RF-ID","median_rb",11.2923662903802,0.916952506812593
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost_group","CatBoost-ID","mean_rrmse",22.4766216990401,0.486666129708262
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost_group","CatBoost-ID","median_rrmse",19.4664980764706,0.774094030765742
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost_group","CatBoost-ID","mean_rb",1.21193218128557,0.73646334673271
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost_group","CatBoost-ID","median_rb",1.26189169325046,1.12246931411415
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn_group","TabPFN-ID","mean_rrmse",18.3984112630575,0.421553588377525
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn_group","TabPFN-ID","median_rrmse",16.4885040781665,0.569297660815028
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn_group","TabPFN-ID","mean_rb",3.09604045776418,0.68038564681892
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn_group","TabPFN-ID","median_rb",2.72401391929678,0.874791770391554
+"PUMS 2023 owners","04_pums_homevalue","insample","merf","MERF","mean_rrmse",24.5285280272603,0.708220425461392
+"PUMS 2023 owners","04_pums_homevalue","insample","merf","MERF","median_rrmse",21.7660968546374,0.83284427470512
+"PUMS 2023 owners","04_pums_homevalue","insample","merf","MERF","mean_rb",3.58202965096755,0.684616255142571
+"PUMS 2023 owners","04_pums_homevalue","insample","merf","MERF","median_rb",2.2604367958944,1.04118569224771
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost_em","CatBoost-EM","mean_rrmse",24.7009271829933,0.689904193096442
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost_em","CatBoost-EM","median_rrmse",21.8725561560868,0.816006649300933
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost_em","CatBoost-EM","mean_rb",2.95430381956571,0.69836923843459
+"PUMS 2023 owners","04_pums_homevalue","insample","catboost_em","CatBoost-EM","median_rb",1.97509454676321,1.06487347609324
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn_em","TabPFN-EM","mean_rrmse",25.5925339594424,0.761016232726326
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn_em","TabPFN-EM","median_rrmse",22.0812749083664,1.08687803058958
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn_em","TabPFN-EM","mean_rb",6.24822098523885,0.809189026808639
+"PUMS 2023 owners","04_pums_homevalue","insample","tabpfn_em","TabPFN-EM","median_rb",5.41975912254795,1.15420061228779
+"PUMS 2023 owners","04_pums_homevalue","oos","lmm","LMM","mean_rrmse",39.3444007634613,0.0901345068876801
+"PUMS 2023 owners","04_pums_homevalue","oos","lmm","LMM","median_rrmse",37.3372522617591,0.400293811621614
+"PUMS 2023 owners","04_pums_homevalue","oos","lmm","LMM","mean_rb",-2.17789649268652,0.630050412070579
+"PUMS 2023 owners","04_pums_homevalue","oos","lmm","LMM","median_rb",-14.6751081398401,0.557214790284331
+"PUMS 2023 owners","04_pums_homevalue","oos","rf","RF","mean_rrmse",38.4327059674388,0.116923907894283
+"PUMS 2023 owners","04_pums_homevalue","oos","rf","RF","median_rrmse",36.7151218053176,0.418178728743628
+"PUMS 2023 owners","04_pums_homevalue","oos","rf","RF","mean_rb",-4.85717097217162,0.562338365430793
+"PUMS 2023 owners","04_pums_homevalue","oos","rf","RF","median_rb",-16.5987912565433,0.489346748483361
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost","CatBoost","mean_rrmse",38.6358898857408,0.144246947943672
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost","CatBoost","median_rrmse",37.4210088666736,0.467257585075377
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost","CatBoost","mean_rb",-5.33521551142505,0.59358014936326
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost","CatBoost","median_rb",-17.2537714416322,0.523468437321525
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn","TabPFN","mean_rrmse",38.8474045581612,0.0895202695711371
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn","TabPFN","median_rrmse",38.5876040392552,0.24747370858529
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn","TabPFN","mean_rb",-4.04224309417111,0.575505420060965
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn","TabPFN","median_rb",-15.67806402786,0.514381701184059
+"PUMS 2023 owners","04_pums_homevalue","oos","rf_group","RF-ID","mean_rrmse",37.5198760724338,0.266994504381317
+"PUMS 2023 owners","04_pums_homevalue","oos","rf_group","RF-ID","median_rrmse",35.6831583188247,0.880942466424616
+"PUMS 2023 owners","04_pums_homevalue","oos","rf_group","RF-ID","mean_rb",-2.75306316693489,0.738432486903263
+"PUMS 2023 owners","04_pums_homevalue","oos","rf_group","RF-ID","median_rb",-16.2744838092094,0.642651391671689
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost_group","CatBoost-ID","mean_rrmse",41.3672137755025,0.863812842254349
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost_group","CatBoost-ID","median_rrmse",36.016993756612,1.03063522330749
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost_group","CatBoost-ID","mean_rb",0.0528131384499559,1.93069332602071
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost_group","CatBoost-ID","median_rb",-12.6406118577294,1.55652998476671
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn_group","TabPFN-ID","mean_rrmse",38.814293623563,0.0975794331306289
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn_group","TabPFN-ID","median_rrmse",37.5838011643126,0.361260399266275
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn_group","TabPFN-ID","mean_rb",-2.61457235760843,0.621901685750689
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn_group","TabPFN-ID","median_rb",-14.3804193028669,0.552671091925599
+"PUMS 2023 owners","04_pums_homevalue","oos","merf","MERF","mean_rrmse",38.4693142368792,0.120589196789062
+"PUMS 2023 owners","04_pums_homevalue","oos","merf","MERF","median_rrmse",36.7830718805341,0.298309693502645
+"PUMS 2023 owners","04_pums_homevalue","oos","merf","MERF","mean_rb",-2.63322421037188,0.599112157811619
+"PUMS 2023 owners","04_pums_homevalue","oos","merf","MERF","median_rb",-14.6190088035091,0.512074813613585
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost_em","CatBoost-EM","mean_rrmse",38.7836644630994,0.133895741047569
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost_em","CatBoost-EM","median_rrmse",37.8241055669324,0.318439147418274
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost_em","CatBoost-EM","mean_rb",-3.84707547694881,0.664659990868221
+"PUMS 2023 owners","04_pums_homevalue","oos","catboost_em","CatBoost-EM","median_rb",-15.8400367225403,0.582681448960003
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn_em","TabPFN-EM","mean_rrmse",39.5987725264589,0.236798722169879
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn_em","TabPFN-EM","median_rrmse",33.4559112619693,0.613643413606318
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn_em","TabPFN-EM","mean_rb",4.09579566327222,1.01476691339843
+"PUMS 2023 owners","04_pums_homevalue","oos","tabpfn_em","TabPFN-EM","median_rb",-8.30449587999925,0.911775975360933
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","direct","Direct","mean_rrmse",4.51365408681499,0.0903407187157884
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","direct","Direct","median_rrmse",4.60519980961398,0.203116670189978
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","direct","Direct","mean_rb",-0.211835092642143,0.115878436322872
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","direct","Direct","median_rb",-0.0493005646547718,0.132747602712156
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","lmm","LMM","mean_rrmse",2.12634806663686,0.051123524531158
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","lmm","LMM","median_rrmse",1.91710000384597,0.0733451702898462
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","lmm","LMM","mean_rb",-0.230272199670871,0.0878183595723315
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","lmm","LMM","median_rb",-0.35408955735767,0.160357127034941
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","rf","RF","mean_rrmse",2.4985069288913,0.0388578263290516
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","rf","RF","median_rrmse",1.99731403708514,0.0546960764387366
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","rf","RF","mean_rb",0.140911323075029,0.0836514687865081
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","rf","RF","median_rb",0.440460501856838,0.11029883281221
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost","CatBoost","mean_rrmse",2.40774411303309,0.0464524805382899
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost","CatBoost","median_rrmse",2.08325146404733,0.0683638549798182
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost","CatBoost","mean_rb",-0.0454527334398828,0.0867299859301406
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost","CatBoost","median_rb",0.42862343217061,0.121583162637
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn","TabPFN","mean_rrmse",1.97604467589164,0.0393753616444749
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn","TabPFN","median_rrmse",1.76257443210928,0.069197661036013
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn","TabPFN","mean_rb",-0.0526062979414992,0.0802752066681121
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn","TabPFN","median_rb",-0.103870832448232,0.136872942389298
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","rf_group","RF-ID","mean_rrmse",2.33131914820284,0.043070896232557
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","rf_group","RF-ID","median_rrmse",1.99522297274416,0.061274232162229
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","rf_group","RF-ID","mean_rb",0.156677779024251,0.0868521363838187
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","rf_group","RF-ID","median_rb",0.424829839315276,0.150165765505219
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost_group","CatBoost-ID","mean_rrmse",2.38148453605774,0.0511723048336684
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost_group","CatBoost-ID","median_rrmse",2.01941931415155,0.0638713395275805
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost_group","CatBoost-ID","mean_rb",0.0160329756634026,0.0905292717663238
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost_group","CatBoost-ID","median_rb",0.56790314511975,0.133402644289388
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn_group","TabPFN-ID","mean_rrmse",1.90330494001489,0.0363180436664309
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn_group","TabPFN-ID","median_rrmse",1.75547006887547,0.0567589402359982
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn_group","TabPFN-ID","mean_rb",-0.134578186249326,0.0778258699797322
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn_group","TabPFN-ID","median_rb",-0.150205374008292,0.133121304718807
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","merf","MERF","mean_rrmse",2.37188402469989,0.0420525730236408
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","merf","MERF","median_rrmse",2.08227168135449,0.0872109517145147
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","merf","MERF","mean_rb",0.0874126989135502,0.0855270146804823
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","merf","MERF","median_rb",0.060887689615195,0.146772753166308
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost_em","CatBoost-EM","mean_rrmse",2.28219701919241,0.043089068743262
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost_em","CatBoost-EM","median_rrmse",2.0720297609476,0.0851647973890417
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost_em","CatBoost-EM","mean_rb",-0.103177556785511,0.0844074298479959
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","catboost_em","CatBoost-EM","median_rb",0.0249947965992439,0.129134746972476
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn_em","TabPFN-EM","mean_rrmse",1.8687018793981,0.0393556731131104
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn_em","TabPFN-EM","median_rrmse",1.73649308420962,0.0548707785344076
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn_em","TabPFN-EM","mean_rb",-0.0524989339485888,0.0815318368376289
+"LSMS-ISA v2.0","14_lsms_pcexp","insample","tabpfn_em","TabPFN-EM","median_rb",-0.170762821840538,0.140044981925144
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","lmm","LMM","mean_rrmse",2.97284052912021,0.0891547319610786
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","lmm","LMM","median_rrmse",2.3594862387021,0.128749732186845
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","lmm","LMM","mean_rb",0.759864665923726,0.15052530915919
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","lmm","LMM","median_rb",-1.04234682058326,0.20450844612262
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","rf","RF","mean_rrmse",3.6024967860475,0.0634348378506432
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","rf","RF","median_rrmse",2.2474772781621,0.170133553634381
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","rf","RF","mean_rb",0.976267383521335,0.130070300906581
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","rf","RF","median_rb",0.49500666870189,0.164846817299487
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost","CatBoost","mean_rrmse",3.34658721155132,0.0785618386475139
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost","CatBoost","median_rrmse",1.90027973673685,0.163268146376503
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost","CatBoost","mean_rb",0.841626525031744,0.132179525507836
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost","CatBoost","median_rb",0.0707262672135924,0.161195369047655
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn","TabPFN","mean_rrmse",2.76132293846273,0.0660717805385682
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn","TabPFN","median_rrmse",2.36625059856816,0.0979768507920664
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn","TabPFN","mean_rb",1.09376236668833,0.127902390960649
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn","TabPFN","median_rb",0.565779926456808,0.172208750605926
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","rf_group","RF-ID","mean_rrmse",3.77636962734728,0.0687969456397692
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","rf_group","RF-ID","median_rrmse",2.89164277174207,0.149625809976123
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","rf_group","RF-ID","mean_rb",0.959898922501185,0.130211545833296
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","rf_group","RF-ID","median_rb",0.484019391443813,0.179701402762052
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost_group","CatBoost-ID","mean_rrmse",3.40070816919935,0.0815414652946646
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost_group","CatBoost-ID","median_rrmse",2.02903671911624,0.171340597442806
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost_group","CatBoost-ID","mean_rb",0.525046326552015,0.153710439116043
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost_group","CatBoost-ID","median_rb",-0.320392194240428,0.185431992515945
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn_group","TabPFN-ID","mean_rrmse",2.74142333957621,0.065470569648888
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn_group","TabPFN-ID","median_rrmse",2.27978611746305,0.0870623776172373
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn_group","TabPFN-ID","mean_rb",0.951470214764482,0.121171707489187
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn_group","TabPFN-ID","median_rb",0.43014372785611,0.162284926276098
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","merf","MERF","mean_rrmse",3.70835472464209,0.0692057824351031
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","merf","MERF","median_rrmse",2.01304917794801,0.195050276931935
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","merf","MERF","mean_rb",0.980660630173192,0.131457471601092
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","merf","MERF","median_rb",0.735236942562307,0.150233520766515
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost_em","CatBoost-EM","mean_rrmse",3.38900589211061,0.066350661459349
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost_em","CatBoost-EM","median_rrmse",1.59959602048568,0.173569419076555
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost_em","CatBoost-EM","mean_rb",0.867858411484769,0.130980915481933
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","catboost_em","CatBoost-EM","median_rb",0.283614034934532,0.154871401777288
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn_em","TabPFN-EM","mean_rrmse",2.75751715289058,0.0648320564667945
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn_em","TabPFN-EM","median_rrmse",2.33957285814472,0.0936368244403761
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn_em","TabPFN-EM","mean_rb",1.08370179731555,0.126883374092897
+"LSMS-ISA v2.0","14_lsms_pcexp","oos","tabpfn_em","TabPFN-EM","median_rb",0.56129055670767,0.170913511246578
+"PISA 2022 Spain","09_pisa_esp_math","insample","direct","Direct","mean_rrmse",3.88005012407447,0.108409645840833
+"PISA 2022 Spain","09_pisa_esp_math","insample","direct","Direct","median_rrmse",3.12192358675907,0.172125693827492
+"PISA 2022 Spain","09_pisa_esp_math","insample","direct","Direct","mean_rb",-0.172601429153045,0.146042322313629
+"PISA 2022 Spain","09_pisa_esp_math","insample","direct","Direct","median_rb",-0.283923657603454,0.175741941814021
+"PISA 2022 Spain","09_pisa_esp_math","insample","lmm","LMM","mean_rrmse",2.86543328212541,0.0551958346288797
+"PISA 2022 Spain","09_pisa_esp_math","insample","lmm","LMM","median_rrmse",1.92166995236092,0.119733714606045
+"PISA 2022 Spain","09_pisa_esp_math","insample","lmm","LMM","mean_rb",0.780400935365601,0.109528859188989
+"PISA 2022 Spain","09_pisa_esp_math","insample","lmm","LMM","median_rb",-0.017771470480159,0.145617779475133
+"PISA 2022 Spain","09_pisa_esp_math","insample","rf","RF","mean_rrmse",3.34968691506318,0.0258601500762855
+"PISA 2022 Spain","09_pisa_esp_math","insample","rf","RF","median_rrmse",2.41501036596894,0.094279399065203
+"PISA 2022 Spain","09_pisa_esp_math","insample","rf","RF","mean_rb",0.906393812660665,0.0988038223469295
+"PISA 2022 Spain","09_pisa_esp_math","insample","rf","RF","median_rb",0.0798631991796615,0.102816985100273
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost","CatBoost","mean_rrmse",3.38708394695386,0.0429954256821103
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost","CatBoost","median_rrmse",2.20082545330577,0.138113825991115
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost","CatBoost","mean_rb",1.09998016505663,0.139691754308348
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost","CatBoost","median_rb",0.304504778296417,0.147676781913384
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn","TabPFN","mean_rrmse",3.22715620933283,0.0273628100781692
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn","TabPFN","median_rrmse",2.3629774227585,0.0669591641241537
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn","TabPFN","mean_rb",0.899023000131746,0.0981885558013473
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn","TabPFN","median_rb",0.063166293395471,0.10001505433195
+"PISA 2022 Spain","09_pisa_esp_math","insample","rf_group","RF-ID","mean_rrmse",3.24764414671857,0.0285528847855337
+"PISA 2022 Spain","09_pisa_esp_math","insample","rf_group","RF-ID","median_rrmse",1.80758112677775,0.100972751794223
+"PISA 2022 Spain","09_pisa_esp_math","insample","rf_group","RF-ID","mean_rb",0.996728551254276,0.0984823971944923
+"PISA 2022 Spain","09_pisa_esp_math","insample","rf_group","RF-ID","median_rb",-0.180722499923187,0.126486788192347
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost_group","CatBoost-ID","mean_rrmse",2.89975221057767,0.0753668077631795
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost_group","CatBoost-ID","median_rrmse",2.13473989875322,0.143021914595159
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost_group","CatBoost-ID","mean_rb",0.634983495766976,0.181799613678729
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost_group","CatBoost-ID","median_rb",0.196467004716139,0.160315935374645
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn_group","TabPFN-ID","mean_rrmse",2.78618345717592,0.0466294209532019
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn_group","TabPFN-ID","median_rrmse",1.80224225674467,0.0964614775425885
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn_group","TabPFN-ID","mean_rb",0.699666050620067,0.106322764904004
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn_group","TabPFN-ID","median_rb",0.0809068984412588,0.144180247736395
+"PISA 2022 Spain","09_pisa_esp_math","insample","merf","MERF","mean_rrmse",3.01960420439958,0.0471134216872138
+"PISA 2022 Spain","09_pisa_esp_math","insample","merf","MERF","median_rrmse",2.05137205941188,0.109752123230162
+"PISA 2022 Spain","09_pisa_esp_math","insample","merf","MERF","mean_rb",0.867532436293767,0.103380855066958
+"PISA 2022 Spain","09_pisa_esp_math","insample","merf","MERF","median_rb",0.02159055766601,0.146302219113184
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost_em","CatBoost-EM","mean_rrmse",3.11682022522518,0.046584897505314
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost_em","CatBoost-EM","median_rrmse",2.0838032336818,0.12160791995331
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost_em","CatBoost-EM","mean_rb",1.09199674676621,0.150853803373242
+"PISA 2022 Spain","09_pisa_esp_math","insample","catboost_em","CatBoost-EM","median_rb",0.200991967662809,0.166612388088881
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn_em","TabPFN-EM","mean_rrmse",2.91714108856402,0.0497077043958349
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn_em","TabPFN-EM","median_rrmse",1.93771727433838,0.11247204547551
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn_em","TabPFN-EM","mean_rb",0.856554252368413,0.104427067773521
+"PISA 2022 Spain","09_pisa_esp_math","insample","tabpfn_em","TabPFN-EM","median_rb",0.0348111033040337,0.140972262158059
+"PISA 2022 Spain","09_pisa_esp_math","oos","lmm","LMM","mean_rrmse",3.02489536338579,0.0360144505233614
+"PISA 2022 Spain","09_pisa_esp_math","oos","lmm","LMM","median_rrmse",3.19563024561981,0.0420363874498336
+"PISA 2022 Spain","09_pisa_esp_math","oos","lmm","LMM","mean_rb",-0.481156135919382,0.116845430872928
+"PISA 2022 Spain","09_pisa_esp_math","oos","lmm","LMM","median_rb",-0.672157334454955,0.110549033095747
+"PISA 2022 Spain","09_pisa_esp_math","oos","rf","RF","mean_rrmse",2.91848844344468,0.0262677706594423
+"PISA 2022 Spain","09_pisa_esp_math","oos","rf","RF","median_rrmse",3.05496714989433,0.0288239362398912
+"PISA 2022 Spain","09_pisa_esp_math","oos","rf","RF","mean_rb",-0.4916167866597,0.104444661817659
+"PISA 2022 Spain","09_pisa_esp_math","oos","rf","RF","median_rb",-0.641151151566408,0.103488607665436
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost","CatBoost","mean_rrmse",3.03731234326771,0.0405518535454873
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost","CatBoost","median_rrmse",3.20231247726943,0.0954228458730518
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost","CatBoost","mean_rb",-0.207745479961859,0.142740787638196
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost","CatBoost","median_rb",-0.406060369039147,0.142653794560579
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn","TabPFN","mean_rrmse",2.94803645959001,0.0277593934203068
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn","TabPFN","median_rrmse",3.09552680309328,0.0334893538381295
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn","TabPFN","mean_rb",-0.433975602918711,0.104411948988084
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn","TabPFN","median_rb",-0.595436148978625,0.10036100474616
+"PISA 2022 Spain","09_pisa_esp_math","oos","rf_group","RF-ID","mean_rrmse",3.39298378263101,0.0534629518734996
+"PISA 2022 Spain","09_pisa_esp_math","oos","rf_group","RF-ID","median_rrmse",3.42451528006885,0.0821120500806947
+"PISA 2022 Spain","09_pisa_esp_math","oos","rf_group","RF-ID","mean_rb",-0.0819997740445674,0.113737081139679
+"PISA 2022 Spain","09_pisa_esp_math","oos","rf_group","RF-ID","median_rb",-0.251455948267563,0.132500398708207
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost_group","CatBoost-ID","mean_rrmse",6.77018013869043,0.475554345722032
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost_group","CatBoost-ID","median_rrmse",6.7350047581254,0.521090456741309
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost_group","CatBoost-ID","mean_rb",-4.85966756928621,0.610545291467271
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost_group","CatBoost-ID","median_rb",-5.03716805164918,0.61502589233678
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn_group","TabPFN-ID","mean_rrmse",2.95567735862958,0.0284250839061535
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn_group","TabPFN-ID","median_rrmse",3.10136555624872,0.033611553243952
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn_group","TabPFN-ID","mean_rb",-0.560984035379916,0.106019491328941
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn_group","TabPFN-ID","median_rb",-0.723818725005573,0.101730900513371
+"PISA 2022 Spain","09_pisa_esp_math","oos","merf","MERF","mean_rrmse",2.92766260577996,0.0257472135554741
+"PISA 2022 Spain","09_pisa_esp_math","oos","merf","MERF","median_rrmse",3.05970525287452,0.0284724834670487
+"PISA 2022 Spain","09_pisa_esp_math","oos","merf","MERF","mean_rb",-0.462467532444898,0.108933896452565
+"PISA 2022 Spain","09_pisa_esp_math","oos","merf","MERF","median_rb",-0.604099294384062,0.107216111466296
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost_em","CatBoost-EM","mean_rrmse",3.10011459241138,0.0440541844433989
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost_em","CatBoost-EM","median_rrmse",3.05089699663176,0.130423401008878
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost_em","CatBoost-EM","mean_rb",0.016218834925003,0.167028776674093
+"PISA 2022 Spain","09_pisa_esp_math","oos","catboost_em","CatBoost-EM","median_rb",-0.171797048258467,0.16509619085391
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn_em","TabPFN-EM","mean_rrmse",2.9572854294952,0.02795766358378
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn_em","TabPFN-EM","median_rrmse",3.09778117525109,0.0340829687877778
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn_em","TabPFN-EM","mean_rb",-0.382837211858154,0.108739673270141
+"PISA 2022 Spain","09_pisa_esp_math","oos","tabpfn_em","TabPFN-EM","median_rb",-0.537110081770545,0.1049341551243
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","direct","Direct","mean_rrmse",4.6779681087429,0.104916055806728
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","direct","Direct","median_rrmse",4.57206985763188,0.186107143462856
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","direct","Direct","mean_rb",0.256858588406091,0.174772233245953
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","direct","Direct","median_rb",0.277611484892369,0.200797849660333
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","lmm","LMM","mean_rrmse",2.65863049876339,0.0537253794264587
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","lmm","LMM","median_rrmse",2.2670968894488,0.126068503443488
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","lmm","LMM","mean_rb",0.309842005426876,0.137891292556973
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","lmm","LMM","median_rb",0.0203659632054869,0.156594568965361
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","rf","RF","mean_rrmse",2.61579968658304,0.0399960643256766
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","rf","RF","median_rrmse",2.12352910653413,0.11288045478847
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","rf","RF","mean_rb",0.217590880923197,0.136011222966887
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","rf","RF","median_rb",-0.0792810699984925,0.135385657755783
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost","CatBoost","mean_rrmse",2.74164635903611,0.0596188658115425
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost","CatBoost","median_rrmse",2.22520616638075,0.113410310001818
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost","CatBoost","mean_rb",0.41067549616029,0.17817162736287
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost","CatBoost","median_rb",0.0670543729067037,0.179977655469061
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn","TabPFN","mean_rrmse",2.65479591711414,0.0432288968618256
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn","TabPFN","median_rrmse",2.14654968329259,0.108118996911603
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn","TabPFN","mean_rb",0.551001988165668,0.142824125626488
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn","TabPFN","median_rb",0.247354605401326,0.142779257641561
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","rf_group","RF-ID","mean_rrmse",2.63360099152376,0.0511158104780679
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","rf_group","RF-ID","median_rrmse",2.15943341474935,0.0944949597780662
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","rf_group","RF-ID","mean_rb",0.212644731094935,0.143796747875446
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","rf_group","RF-ID","median_rb",-0.351244856962439,0.155806624300181
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost_group","CatBoost-ID","mean_rrmse",2.86434341971216,0.0659269483824616
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost_group","CatBoost-ID","median_rrmse",2.65731964393807,0.135144964563497
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost_group","CatBoost-ID","mean_rb",0.33691439082468,0.166740506938913
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost_group","CatBoost-ID","median_rb",-0.0444341728261887,0.18249606675458
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn_group","TabPFN-ID","mean_rrmse",2.53763360833499,0.050137192217704
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn_group","TabPFN-ID","median_rrmse",2.20127996007103,0.145175497729671
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn_group","TabPFN-ID","mean_rb",0.526432030606477,0.141919237788561
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn_group","TabPFN-ID","median_rb",0.165828371662819,0.14824459232869
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","merf","MERF","mean_rrmse",2.66278424887515,0.055805949384434
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","merf","MERF","median_rrmse",2.25278255913248,0.105018733107572
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","merf","MERF","mean_rb",0.185225267965891,0.146962049416882
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","merf","MERF","median_rb",-0.243236760892261,0.158269917582085
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost_em","CatBoost-EM","mean_rrmse",2.69824105233537,0.0550990682866918
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost_em","CatBoost-EM","median_rrmse",2.37886609360841,0.112448360158778
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost_em","CatBoost-EM","mean_rb",0.37710726039699,0.167078173693044
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","catboost_em","CatBoost-EM","median_rb",-0.0390064722179727,0.173676437404962
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn_em","TabPFN-EM","mean_rrmse",2.67686812726868,0.0563423265077325
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn_em","TabPFN-EM","median_rrmse",2.34930852469938,0.123087883872773
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn_em","TabPFN-EM","mean_rb",0.383919295534948,0.149789273346494
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","insample","tabpfn_em","TabPFN-EM","median_rb",-0.0141415387812101,0.169553914003659
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","lmm","LMM","mean_rrmse",2.37189236269243,0.0824694848062404
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","lmm","LMM","median_rrmse",2.34337476267546,0.120271042819209
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","lmm","LMM","mean_rb",0.401189647970234,0.168250019083125
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","lmm","LMM","median_rb",-0.0650729211469423,0.179561351160778
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","rf","RF","mean_rrmse",2.28174276287211,0.0624835171172983
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","rf","RF","median_rrmse",2.11955757041891,0.133490136227599
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","rf","RF","mean_rb",0.597665697452011,0.165981485736066
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","rf","RF","median_rb",0.188301543269156,0.175261442397118
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost","CatBoost","mean_rrmse",2.35890917212541,0.0826725762439191
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost","CatBoost","median_rrmse",1.72281488595125,0.16678552057356
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost","CatBoost","mean_rb",0.948378072690266,0.195922033762075
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost","CatBoost","median_rb",0.593029934640289,0.20057342706009
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn","TabPFN","mean_rrmse",2.37772811235586,0.0817950035781832
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn","TabPFN","median_rrmse",1.79748891810433,0.156472674643709
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn","TabPFN","mean_rb",0.985860684690134,0.178750711171883
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn","TabPFN","median_rb",0.604300465634091,0.190845024987389
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","rf_group","RF-ID","mean_rrmse",2.5795988000606,0.0760628600549712
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","rf_group","RF-ID","median_rrmse",2.38242092227898,0.159494685431146
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","rf_group","RF-ID","mean_rb",0.576888855705101,0.168174896876282
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","rf_group","RF-ID","median_rb",0.142826159301894,0.211805170388496
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost_group","CatBoost-ID","mean_rrmse",2.63024021254327,0.136356270294257
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost_group","CatBoost-ID","median_rrmse",2.53574511238369,0.164305924773818
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost_group","CatBoost-ID","mean_rb",0.441372134266596,0.266728062163384
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost_group","CatBoost-ID","median_rb",0.054735009888176,0.265359906373401
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn_group","TabPFN-ID","mean_rrmse",2.35325904532651,0.0789285978978164
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn_group","TabPFN-ID","median_rrmse",1.82212264131887,0.157739540169909
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn_group","TabPFN-ID","mean_rb",0.932459775160493,0.175806388206923
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn_group","TabPFN-ID","median_rb",0.560543360378673,0.186823579696607
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","merf","MERF","mean_rrmse",2.29781053145549,0.0657139877429377
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","merf","MERF","median_rrmse",2.15825789811547,0.130908085552298
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","merf","MERF","mean_rb",0.585849230724164,0.171271843793857
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","merf","MERF","median_rb",0.179329026117165,0.17894780606316
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost_em","CatBoost-EM","mean_rrmse",2.31891253845977,0.0721775647604158
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost_em","CatBoost-EM","median_rrmse",1.68009298285707,0.167894284745431
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost_em","CatBoost-EM","mean_rb",0.963499910221023,0.184136226320936
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","catboost_em","CatBoost-EM","median_rb",0.611955937644284,0.190418090541826
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn_em","TabPFN-EM","mean_rrmse",2.35285962606155,0.0733317829860021
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn_em","TabPFN-EM","median_rrmse",1.92473055015117,0.161847368139014
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn_em","TabPFN-EM","mean_rb",0.845201073256352,0.177540235514885
+"Peru DHS 2009 children","07_DHS_peru_hemoglobin_children","oos","tabpfn_em","TabPFN-EM","median_rb",0.450802238155063,0.189006298524357
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","direct","Direct","mean_rrmse",7.81802825203456,0.143530847379155
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","direct","Direct","median_rrmse",8.07618058604503,0.239960972049287
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","direct","Direct","mean_rb",-0.0875123612981952,0.172389062293336
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","direct","Direct","median_rb",-0.0557146993055077,0.232195689984619
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","lmm","LMM","mean_rrmse",3.20883089084126,0.0743462748326193
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","lmm","LMM","median_rrmse",2.84440749779014,0.111176036198452
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","lmm","LMM","mean_rb",-0.0434101720917283,0.164692437910717
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","lmm","LMM","median_rb",-0.713978050920407,0.217684678074693
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","rf","RF","mean_rrmse",3.27699682428891,0.0612176318058082
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","rf","RF","median_rrmse",2.58231030639638,0.130408163439227
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","rf","RF","mean_rb",0.0234314823630963,0.158526069902998
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","rf","RF","median_rb",-1.06057374787727,0.173788967085788
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost","CatBoost","mean_rrmse",3.62411016362056,0.0920118107848124
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost","CatBoost","median_rrmse",3.04506403644606,0.125140778841969
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost","CatBoost","mean_rb",0.0376454501978042,0.234814320387502
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost","CatBoost","median_rb",-0.915583152486543,0.253116870492708
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn","TabPFN","mean_rrmse",3.15943106950086,0.0579764850632993
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn","TabPFN","median_rrmse",2.59241771522669,0.118234221382172
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn","TabPFN","mean_rb",-0.0324961806963339,0.156841968088686
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn","TabPFN","median_rb",-1.00671240251132,0.16338367704411
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","rf_group","RF-ID","mean_rrmse",3.54689389586163,0.0703278773243664
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","rf_group","RF-ID","median_rrmse",2.90345236369349,0.115140986856415
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","rf_group","RF-ID","mean_rb",0.116686514939637,0.159174752217475
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","rf_group","RF-ID","median_rb",-0.676961407763463,0.215934760311984
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost_group","CatBoost-ID","mean_rrmse",4.23674234619141,0.0815215693283582
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost_group","CatBoost-ID","median_rrmse",3.9015660863065,0.118950387917314
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost_group","CatBoost-ID","mean_rb",-0.0782030300313935,0.214780507377498
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost_group","CatBoost-ID","median_rb",-0.875945786207271,0.309304722236909
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn_group","TabPFN-ID","mean_rrmse",3.14704063877788,0.0764202919981773
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn_group","TabPFN-ID","median_rrmse",2.80171476890696,0.127814464053186
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn_group","TabPFN-ID","mean_rb",-0.0149797642453942,0.156374895117306
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn_group","TabPFN-ID","median_rb",-0.607442419910605,0.216611300559923
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","merf","MERF","mean_rrmse",3.44375901964802,0.0748985808241346
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","merf","MERF","median_rrmse",2.96387743447166,0.123769112935784
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","merf","MERF","mean_rb",0.0120854644443528,0.161618618196627
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","merf","MERF","median_rb",-0.573493289759753,0.204376635098282
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost_em","CatBoost-EM","mean_rrmse",3.69885141172323,0.101723757132285
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost_em","CatBoost-EM","median_rrmse",3.32808758760289,0.172620737602012
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost_em","CatBoost-EM","mean_rb",-0.0814587722807641,0.237086975429469
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","catboost_em","CatBoost-EM","median_rb",-0.809623223530969,0.27389798626634
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn_em","TabPFN-EM","mean_rrmse",3.26867748513295,0.0670091754446341
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn_em","TabPFN-EM","median_rrmse",2.89601414876189,0.116094654474228
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn_em","TabPFN-EM","mean_rb",-0.0411802531338911,0.156889172996117
+"KDHS 2022 women","06_DHS_kenya_BMI_women","insample","tabpfn_em","TabPFN-EM","median_rb",-0.826564113253013,0.20299145713068
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","lmm","LMM","mean_rrmse",2.92039661407447,0.0753419448728119
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","lmm","LMM","median_rrmse",2.47148554934962,0.20822424027208
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","lmm","LMM","mean_rb",-1.06411805622737,0.167002569402522
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","lmm","LMM","median_rb",0.334652798809065,0.263914546982146
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","rf","RF","mean_rrmse",2.84463456625937,0.0726793913752729
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","rf","RF","median_rrmse",1.97347372616866,0.156831846772597
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","rf","RF","mean_rb",-0.906313220973087,0.158368145525966
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","rf","RF","median_rb",-0.240308755422896,0.20615981581739
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost","CatBoost","mean_rrmse",3.43773385277081,0.0923448935655386
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost","CatBoost","median_rrmse",3.39918525121915,0.164442116060149
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost","CatBoost","mean_rb",-0.795504161870396,0.236368997760043
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost","CatBoost","median_rb",0.0302754398023314,0.257663696000925
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn","TabPFN","mean_rrmse",2.86970108424107,0.0686342598106
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn","TabPFN","median_rrmse",2.78880270563756,0.173375140075693
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn","TabPFN","mean_rb",-0.97419158061855,0.157409149375079
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn","TabPFN","median_rb",0.108757326799737,0.220488038435593
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","rf_group","RF-ID","mean_rrmse",3.10897579309793,0.0960427446480736
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","rf_group","RF-ID","median_rrmse",2.7148001773675,0.236810609039477
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","rf_group","RF-ID","mean_rb",-0.716954592222035,0.194156389567365
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","rf_group","RF-ID","median_rb",-0.276624339127782,0.227622347427996
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost_group","CatBoost-ID","mean_rrmse",5.58381858435207,0.521560864514307
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost_group","CatBoost-ID","median_rrmse",5.29233375281472,0.539213936645075
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost_group","CatBoost-ID","mean_rb",0.365399780550256,0.688454852822573
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost_group","CatBoost-ID","median_rb",0.97223291547204,0.716640050798931
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn_group","TabPFN-ID","mean_rrmse",2.87403904642642,0.0657800847924734
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn_group","TabPFN-ID","median_rrmse",2.77539540964422,0.158743094929326
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn_group","TabPFN-ID","mean_rb",-0.981149719516314,0.154901279232366
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn_group","TabPFN-ID","median_rb",0.110915575098658,0.215242733551929
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","merf","MERF","mean_rrmse",2.87926898918707,0.0794242610349785
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","merf","MERF","median_rrmse",1.90785431853782,0.165396259367585
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","merf","MERF","mean_rb",-0.87357818877925,0.162818435061369
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","merf","MERF","median_rb",-0.345263707229646,0.204957960711042
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost_em","CatBoost-EM","mean_rrmse",3.45375699063785,0.0887707084653144
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost_em","CatBoost-EM","median_rrmse",3.35385572583419,0.18136369322388
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost_em","CatBoost-EM","mean_rb",-0.850697910986632,0.236963736109273
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","catboost_em","CatBoost-EM","median_rb",-0.275507624766733,0.285732091068696
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn_em","TabPFN-EM","mean_rrmse",2.87146643266622,0.0703633344437572
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn_em","TabPFN-EM","median_rrmse",2.6076774602385,0.182796517093163
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn_em","TabPFN-EM","mean_rb",-0.949797955323057,0.159545862518088
+"KDHS 2022 women","06_DHS_kenya_BMI_women","oos","tabpfn_em","TabPFN-EM","median_rb",0.0219113676572614,0.217396701079673
+"EVS 1962/63","05_evs62","insample","direct","Direct","mean_rrmse",27.7082670417569,0.616726239525056
+"EVS 1962/63","05_evs62","insample","direct","Direct","median_rrmse",24.2831742229445,0.549298193283239
+"EVS 1962/63","05_evs62","insample","direct","Direct","mean_rb",0.697881758942987,0.473612836746432
+"EVS 1962/63","05_evs62","insample","direct","Direct","median_rb",0.25085703998498,0.501896982397809
+"EVS 1962/63","05_evs62","insample","lmm","LMM","mean_rrmse",7.87195844078862,0.463043810516028
+"EVS 1962/63","05_evs62","insample","lmm","LMM","median_rrmse",6.59728731471359,0.339968750159776
+"EVS 1962/63","05_evs62","insample","lmm","LMM","mean_rb",2.37831003070453,0.362025190907721
+"EVS 1962/63","05_evs62","insample","lmm","LMM","median_rb",2.34991901955761,0.496681596548657
+"EVS 1962/63","05_evs62","insample","rf","RF","mean_rrmse",7.29420949333174,0.200792269885022
+"EVS 1962/63","05_evs62","insample","rf","RF","median_rrmse",5.68720552450588,0.292419392944816
+"EVS 1962/63","05_evs62","insample","rf","RF","mean_rb",3.67128557793404,0.345031310053038
+"EVS 1962/63","05_evs62","insample","rf","RF","median_rb",3.30039600891902,0.321767695348139
+"EVS 1962/63","05_evs62","insample","catboost","CatBoost","mean_rrmse",7.22636728696201,0.193078305923782
+"EVS 1962/63","05_evs62","insample","catboost","CatBoost","median_rrmse",5.62279389796756,0.150418886450202
+"EVS 1962/63","05_evs62","insample","catboost","CatBoost","mean_rb",2.78213741269724,0.413701345566902
+"EVS 1962/63","05_evs62","insample","catboost","CatBoost","median_rb",1.79528094653226,0.403005024535859
+"EVS 1962/63","05_evs62","insample","tabpfn","TabPFN","mean_rrmse",7.27308193443762,0.220763549201881
+"EVS 1962/63","05_evs62","insample","tabpfn","TabPFN","median_rrmse",6.23502946577565,0.330100531597077
+"EVS 1962/63","05_evs62","insample","tabpfn","TabPFN","mean_rb",3.95874404331876,0.36197059582984
+"EVS 1962/63","05_evs62","insample","tabpfn","TabPFN","median_rb",4.03996585246699,0.367138025451965
+"EVS 1962/63","05_evs62","insample","rf_group","RF-ID","mean_rrmse",7.94222477360407,0.217828593882065
+"EVS 1962/63","05_evs62","insample","rf_group","RF-ID","median_rrmse",6.36068378199879,0.236361264213352
+"EVS 1962/63","05_evs62","insample","rf_group","RF-ID","mean_rb",3.92170142464191,0.353828313439551
+"EVS 1962/63","05_evs62","insample","rf_group","RF-ID","median_rb",3.54512799397666,0.381720564409273
+"EVS 1962/63","05_evs62","insample","catboost_group","CatBoost-ID","mean_rrmse",7.243001114355,0.227317954496138
+"EVS 1962/63","05_evs62","insample","catboost_group","CatBoost-ID","median_rrmse",5.67668480710288,0.177154180847975
+"EVS 1962/63","05_evs62","insample","catboost_group","CatBoost-ID","mean_rb",2.38658452823001,0.436467862910244
+"EVS 1962/63","05_evs62","insample","catboost_group","CatBoost-ID","median_rb",1.15753558008719,0.425027058036503
+"EVS 1962/63","05_evs62","insample","tabpfn_group","TabPFN-ID","mean_rrmse",6.63093813286929,0.176672848651974
+"EVS 1962/63","05_evs62","insample","tabpfn_group","TabPFN-ID","median_rrmse",5.94265770022451,0.216374958618775
+"EVS 1962/63","05_evs62","insample","tabpfn_group","TabPFN-ID","mean_rb",2.25291187504143,0.366311423095165
+"EVS 1962/63","05_evs62","insample","tabpfn_group","TabPFN-ID","median_rb",1.74954693140423,0.446366420426043
+"EVS 1962/63","05_evs62","insample","merf","MERF","mean_rrmse",8.1765420477525,0.423265903935918
+"EVS 1962/63","05_evs62","insample","merf","MERF","median_rrmse",6.86237361039674,0.364039718765467
+"EVS 1962/63","05_evs62","insample","merf","MERF","mean_rb",2.32820323288577,0.381895804028211
+"EVS 1962/63","05_evs62","insample","merf","MERF","median_rb",1.47376287874012,0.509044151601644
+"EVS 1962/63","05_evs62","insample","catboost_em","CatBoost-EM","mean_rrmse",8.22565207110746,0.41674440522425
+"EVS 1962/63","05_evs62","insample","catboost_em","CatBoost-EM","median_rrmse",7.15694053309619,0.453929647843729
+"EVS 1962/63","05_evs62","insample","catboost_em","CatBoost-EM","mean_rb",1.09132903013239,0.431747755199288
+"EVS 1962/63","05_evs62","insample","catboost_em","CatBoost-EM","median_rb",-0.231967532450999,0.506541574409408
+"EVS 1962/63","05_evs62","insample","tabpfn_em","TabPFN-EM","mean_rrmse",8.1199441411246,0.440801698475278
+"EVS 1962/63","05_evs62","insample","tabpfn_em","TabPFN-EM","median_rrmse",6.87371707933271,0.371573941465278
+"EVS 1962/63","05_evs62","insample","tabpfn_em","TabPFN-EM","mean_rb",2.82448062885712,0.392885632656267
+"EVS 1962/63","05_evs62","insample","tabpfn_em","TabPFN-EM","median_rb",2.19580939120383,0.495298658474936
+"EVS 1962/63","05_evs62","oos","lmm","LMM","mean_rrmse",7.38618911207708,0.189529160784811
+"EVS 1962/63","05_evs62","oos","lmm","LMM","median_rrmse",6.56150290814077,0.202209403738435
+"EVS 1962/63","05_evs62","oos","lmm","LMM","mean_rb",4.16071737370249,0.395457656409524
+"EVS 1962/63","05_evs62","oos","lmm","LMM","median_rb",5.21503763322318,0.427370571246986
+"EVS 1962/63","05_evs62","oos","rf","RF","mean_rrmse",7.98282490712626,0.236186784584826
+"EVS 1962/63","05_evs62","oos","rf","RF","median_rrmse",6.53886453764426,0.166573742705486
+"EVS 1962/63","05_evs62","oos","rf","RF","mean_rb",5.09561360519238,0.372291381678909
+"EVS 1962/63","05_evs62","oos","rf","RF","median_rb",5.43506325183374,0.354544531782898
+"EVS 1962/63","05_evs62","oos","catboost","CatBoost","mean_rrmse",8.08949039553738,0.216139233587149
+"EVS 1962/63","05_evs62","oos","catboost","CatBoost","median_rrmse",6.89862281679605,0.12548131955416
+"EVS 1962/63","05_evs62","oos","catboost","CatBoost","mean_rb",4.43522586211505,0.443964031448491
+"EVS 1962/63","05_evs62","oos","catboost","CatBoost","median_rb",4.42134964683434,0.421044490715348
+"EVS 1962/63","05_evs62","oos","tabpfn","TabPFN","mean_rrmse",7.81547425994372,0.253882428933227
+"EVS 1962/63","05_evs62","oos","tabpfn","TabPFN","median_rrmse",6.3723240138639,0.149543710086313
+"EVS 1962/63","05_evs62","oos","tabpfn","TabPFN","mean_rb",5.51364943433629,0.389362058504566
+"EVS 1962/63","05_evs62","oos","tabpfn","TabPFN","median_rb",5.49137904198305,0.354613225735807
+"EVS 1962/63","05_evs62","oos","rf_group","RF-ID","mean_rrmse",10.1727266657137,0.353288372009816
+"EVS 1962/63","05_evs62","oos","rf_group","RF-ID","median_rrmse",9.79958662533235,0.395023469666746
+"EVS 1962/63","05_evs62","oos","rf_group","RF-ID","mean_rb",5.99933173479414,0.388075515505834
+"EVS 1962/63","05_evs62","oos","rf_group","RF-ID","median_rb",9.27109244919965,0.400742190629483
+"EVS 1962/63","05_evs62","oos","catboost_group","CatBoost-ID","mean_rrmse",7.92660595975973,0.23732855930668
+"EVS 1962/63","05_evs62","oos","catboost_group","CatBoost-ID","median_rrmse",7.02205820810987,0.161893756131859
+"EVS 1962/63","05_evs62","oos","catboost_group","CatBoost-ID","mean_rb",3.65824271561096,0.469423283610637
+"EVS 1962/63","05_evs62","oos","catboost_group","CatBoost-ID","median_rb",3.77534522414227,0.459299546024518
+"EVS 1962/63","05_evs62","oos","tabpfn_group","TabPFN-ID","mean_rrmse",7.41755221718778,0.213825202797175
+"EVS 1962/63","05_evs62","oos","tabpfn_group","TabPFN-ID","median_rrmse",6.27424068625957,0.158850837233245
+"EVS 1962/63","05_evs62","oos","tabpfn_group","TabPFN-ID","mean_rb",4.67913231676327,0.372315006267033
+"EVS 1962/63","05_evs62","oos","tabpfn_group","TabPFN-ID","median_rb",4.61026847222954,0.337389556725714
+"EVS 1962/63","05_evs62","oos","merf","MERF","mean_rrmse",7.73525680453284,0.222797865462049
+"EVS 1962/63","05_evs62","oos","merf","MERF","median_rrmse",6.26603000012452,0.213866748663448
+"EVS 1962/63","05_evs62","oos","merf","MERF","mean_rb",3.75710323761326,0.416288843177952
+"EVS 1962/63","05_evs62","oos","merf","MERF","median_rb",3.97351052521897,0.399059935831176
+"EVS 1962/63","05_evs62","oos","catboost_em","CatBoost-EM","mean_rrmse",7.66296459399394,0.222999944977826
+"EVS 1962/63","05_evs62","oos","catboost_em","CatBoost-EM","median_rrmse",7.12343873245576,0.243032039727816
+"EVS 1962/63","05_evs62","oos","catboost_em","CatBoost-EM","mean_rb",2.35878478693259,0.478808756546409
+"EVS 1962/63","05_evs62","oos","catboost_em","CatBoost-EM","median_rb",2.10585539632959,0.440579258806221
+"EVS 1962/63","05_evs62","oos","tabpfn_em","TabPFN-EM","mean_rrmse",7.54087876424313,0.233407195886761
+"EVS 1962/63","05_evs62","oos","tabpfn_em","TabPFN-EM","median_rrmse",6.21865339978368,0.204654251179266
+"EVS 1962/63","05_evs62","oos","tabpfn_em","TabPFN-EM","mean_rb",4.44934743881199,0.416469570187972
+"EVS 1962/63","05_evs62","oos","tabpfn_em","TabPFN-EM","median_rb",4.23012666581282,0.383134897362065
+"CES 2024","12_ces2024_policy","insample","direct","Direct","mean_rrmse",17.6223942304834,0.230895172303871
+"CES 2024","12_ces2024_policy","insample","direct","Direct","median_rrmse",15.9492065561296,0.817530025950951
+"CES 2024","12_ces2024_policy","insample","direct","Direct","mean_rb",0.615112361880199,0.488471490072237
+"CES 2024","12_ces2024_policy","insample","direct","Direct","median_rb",0.423428703405504,0.496082824715999
+"CES 2024","12_ces2024_policy","insample","lmm","LMM","mean_rrmse",6.2719402120796,0.133675877970026
+"CES 2024","12_ces2024_policy","insample","lmm","LMM","median_rrmse",5.49964315798149,0.2109190799073
+"CES 2024","12_ces2024_policy","insample","lmm","LMM","mean_rb",0.870832616703393,0.311356060548681
+"CES 2024","12_ces2024_policy","insample","lmm","LMM","median_rb",0.781560967932949,0.425237600804367
+"CES 2024","12_ces2024_policy","insample","rf","RF","mean_rrmse",6.91780235890591,0.094514965616204
+"CES 2024","12_ces2024_policy","insample","rf","RF","median_rrmse",5.99025433344269,0.15473850210974
+"CES 2024","12_ces2024_policy","insample","rf","RF","mean_rb",1.02641192875182,0.286914945122922
+"CES 2024","12_ces2024_policy","insample","rf","RF","median_rb",0.645376437508105,0.282493968809931
+"CES 2024","12_ces2024_policy","insample","catboost","CatBoost","mean_rrmse",7.22472479731708,0.158103549515073
+"CES 2024","12_ces2024_policy","insample","catboost","CatBoost","median_rrmse",6.1683087022585,0.190433679816889
+"CES 2024","12_ces2024_policy","insample","catboost","CatBoost","mean_rb",0.683118544005654,0.404969559648699
+"CES 2024","12_ces2024_policy","insample","catboost","CatBoost","median_rb",0.939185883900166,0.409938129481664
+"CES 2024","12_ces2024_policy","insample","tabpfn","TabPFN","mean_rrmse",6.47136284295765,0.107958905212904
+"CES 2024","12_ces2024_policy","insample","tabpfn","TabPFN","median_rrmse",5.35161379719305,0.159331235005682
+"CES 2024","12_ces2024_policy","insample","tabpfn","TabPFN","mean_rb",2.17304645958524,0.261077666447448
+"CES 2024","12_ces2024_policy","insample","tabpfn","TabPFN","median_rb",1.92528015368145,0.254998664079901
+"CES 2024","12_ces2024_policy","insample","rf_group","RF-ID","mean_rrmse",6.75374643036517,0.0994911155077867
+"CES 2024","12_ces2024_policy","insample","rf_group","RF-ID","median_rrmse",5.59883403993228,0.150106796729481
+"CES 2024","12_ces2024_policy","insample","rf_group","RF-ID","mean_rb",1.02932342470579,0.284076004291267
+"CES 2024","12_ces2024_policy","insample","rf_group","RF-ID","median_rb",0.567268448975211,0.357077776831413
+"CES 2024","12_ces2024_policy","insample","catboost_group","CatBoost-ID","mean_rrmse",7.23475411956716,0.188324268095866
+"CES 2024","12_ces2024_policy","insample","catboost_group","CatBoost-ID","median_rrmse",6.00426787782539,0.21308408438015
+"CES 2024","12_ces2024_policy","insample","catboost_group","CatBoost-ID","mean_rb",0.601040649406189,0.416285908223612
+"CES 2024","12_ces2024_policy","insample","catboost_group","CatBoost-ID","median_rb",0.786773643384213,0.440939687606483
+"CES 2024","12_ces2024_policy","insample","tabpfn_group","TabPFN-ID","mean_rrmse",6.29895838988868,0.12275111677051
+"CES 2024","12_ces2024_policy","insample","tabpfn_group","TabPFN-ID","median_rrmse",4.77684111302664,0.222783726380172
+"CES 2024","12_ces2024_policy","insample","tabpfn_group","TabPFN-ID","mean_rb",2.19617624702393,0.266217882508572
+"CES 2024","12_ces2024_policy","insample","tabpfn_group","TabPFN-ID","median_rb",2.36557003238304,0.318302823727712
+"CES 2024","12_ces2024_policy","insample","merf","MERF","mean_rrmse",6.87498396594425,0.0935577511025959
+"CES 2024","12_ces2024_policy","insample","merf","MERF","median_rrmse",5.75504234700235,0.200478768925116
+"CES 2024","12_ces2024_policy","insample","merf","MERF","mean_rb",1.01682204543326,0.28649977394435
+"CES 2024","12_ces2024_policy","insample","merf","MERF","median_rb",0.706971484829923,0.35880352929357
+"CES 2024","12_ces2024_policy","insample","catboost_em","CatBoost-EM","mean_rrmse",7.09815975320542,0.129675726083037
+"CES 2024","12_ces2024_policy","insample","catboost_em","CatBoost-EM","median_rrmse",6.01555710754026,0.201051207464352
+"CES 2024","12_ces2024_policy","insample","catboost_em","CatBoost-EM","mean_rb",0.406458137021835,0.371080521474773
+"CES 2024","12_ces2024_policy","insample","catboost_em","CatBoost-EM","median_rb",0.118982972163963,0.445533401022935
+"CES 2024","12_ces2024_policy","insample","tabpfn_em","TabPFN-EM","mean_rrmse",6.51406247410902,0.120414773271422
+"CES 2024","12_ces2024_policy","insample","tabpfn_em","TabPFN-EM","median_rrmse",4.97482094983441,0.162247125171809
+"CES 2024","12_ces2024_policy","insample","tabpfn_em","TabPFN-EM","mean_rb",1.96800812530619,0.295773802967099
+"CES 2024","12_ces2024_policy","insample","tabpfn_em","TabPFN-EM","median_rb",1.44493076359071,0.35806922470299
+"CES 2024","12_ces2024_policy","oos","lmm","LMM","mean_rrmse",8.46799120537627,0.137291384146979
+"CES 2024","12_ces2024_policy","oos","lmm","LMM","median_rrmse",5.45844820800441,0.227339486081947
+"CES 2024","12_ces2024_policy","oos","lmm","LMM","mean_rb",2.12044438397433,0.313657600621109
+"CES 2024","12_ces2024_policy","oos","lmm","LMM","median_rb",-0.80931758925067,0.317573224376198
+"CES 2024","12_ces2024_policy","oos","rf","RF","mean_rrmse",8.62199245553107,0.0810944701649647
+"CES 2024","12_ces2024_policy","oos","rf","RF","median_rrmse",5.38823868553597,0.163914790735646
+"CES 2024","12_ces2024_policy","oos","rf","RF","mean_rb",2.18672969581309,0.284544912699507
+"CES 2024","12_ces2024_policy","oos","rf","RF","median_rb",-1.28175986734055,0.268482822287157
+"CES 2024","12_ces2024_policy","oos","catboost","CatBoost","mean_rrmse",8.83179770550657,0.147913572966714
+"CES 2024","12_ces2024_policy","oos","catboost","CatBoost","median_rrmse",5.1746616752221,0.18447622711076
+"CES 2024","12_ces2024_policy","oos","catboost","CatBoost","mean_rb",2.05162890404288,0.410509133625815
+"CES 2024","12_ces2024_policy","oos","catboost","CatBoost","median_rb",-0.837508313483811,0.373214774668123
+"CES 2024","12_ces2024_policy","oos","tabpfn","TabPFN","mean_rrmse",8.46492731308596,0.114064148040671
+"CES 2024","12_ces2024_policy","oos","tabpfn","TabPFN","median_rrmse",5.66038740328194,0.166879970017773
+"CES 2024","12_ces2024_policy","oos","tabpfn","TabPFN","mean_rb",3.33520482406047,0.261167243182898
+"CES 2024","12_ces2024_policy","oos","tabpfn","TabPFN","median_rb",0.48538479512821,0.260668095711982
+"CES 2024","12_ces2024_policy","oos","rf_group","RF-ID","mean_rrmse",9.06879859000214,0.138906675784232
+"CES 2024","12_ces2024_policy","oos","rf_group","RF-ID","median_rrmse",5.37777969030383,0.164661785953769
+"CES 2024","12_ces2024_policy","oos","rf_group","RF-ID","mean_rb",1.77163527334562,0.287680840402592
+"CES 2024","12_ces2024_policy","oos","rf_group","RF-ID","median_rb",-1.71595363581848,0.306380323707864
+"CES 2024","12_ces2024_policy","oos","catboost_group","CatBoost-ID","mean_rrmse",9.36110151759826,0.24166457850088
+"CES 2024","12_ces2024_policy","oos","catboost_group","CatBoost-ID","median_rrmse",5.67863445304688,0.269856316525469
+"CES 2024","12_ces2024_policy","oos","catboost_group","CatBoost-ID","mean_rb",2.0382648073741,0.50310355408392
+"CES 2024","12_ces2024_policy","oos","catboost_group","CatBoost-ID","median_rb",-0.922960735119774,0.448256855576065
+"CES 2024","12_ces2024_policy","oos","tabpfn_group","TabPFN-ID","mean_rrmse",8.4137691867367,0.110386711737282
+"CES 2024","12_ces2024_policy","oos","tabpfn_group","TabPFN-ID","median_rrmse",5.66333942588837,0.158152364628908
+"CES 2024","12_ces2024_policy","oos","tabpfn_group","TabPFN-ID","mean_rb",3.06633170664168,0.259525164381679
+"CES 2024","12_ces2024_policy","oos","tabpfn_group","TabPFN-ID","median_rb",0.187361776177617,0.257500591123075
+"CES 2024","12_ces2024_policy","oos","merf","MERF","mean_rrmse",8.63783369928045,0.0769239342027708
+"CES 2024","12_ces2024_policy","oos","merf","MERF","median_rrmse",5.41544060353572,0.146731431193025
+"CES 2024","12_ces2024_policy","oos","merf","MERF","mean_rb",2.31370227852431,0.278116128553085
+"CES 2024","12_ces2024_policy","oos","merf","MERF","median_rb",-1.21936637334874,0.257173524452044
+"CES 2024","12_ces2024_policy","oos","catboost_em","CatBoost-EM","mean_rrmse",8.80290710226146,0.113184611592099
+"CES 2024","12_ces2024_policy","oos","catboost_em","CatBoost-EM","median_rrmse",5.28970354502465,0.149661401774246
+"CES 2024","12_ces2024_policy","oos","catboost_em","CatBoost-EM","mean_rb",1.93038750746404,0.369633040123746
+"CES 2024","12_ces2024_policy","oos","catboost_em","CatBoost-EM","median_rb",-1.17226392190615,0.339053382616259
+"CES 2024","12_ces2024_policy","oos","tabpfn_em","TabPFN-EM","mean_rrmse",8.6001707214654,0.122691933751759
+"CES 2024","12_ces2024_policy","oos","tabpfn_em","TabPFN-EM","median_rrmse",5.88895678870713,0.168097663744181
+"CES 2024","12_ces2024_policy","oos","tabpfn_em","TabPFN-EM","mean_rb",3.38771619780668,0.289377227948263
+"CES 2024","12_ces2024_policy","oos","tabpfn_em","TabPFN-EM","median_rb",0.460179191983605,0.289539450181637
+"ENVIPE 2024","13_envipe_gasto","insample","direct","Direct","mean_rrmse",6.04332121079737,0.134085875910136
+"ENVIPE 2024","13_envipe_gasto","insample","direct","Direct","median_rrmse",5.91383935039791,0.181707723731485
+"ENVIPE 2024","13_envipe_gasto","insample","direct","Direct","mean_rb",-0.00988599835936934,0.144058080165945
+"ENVIPE 2024","13_envipe_gasto","insample","direct","Direct","median_rb",0.0510058603755684,0.189437988260201
+"ENVIPE 2024","13_envipe_gasto","insample","lmm","LMM","mean_rrmse",2.12419811690405,0.081421876438551
+"ENVIPE 2024","13_envipe_gasto","insample","lmm","LMM","median_rrmse",2.00491071327396,0.105344179313421
+"ENVIPE 2024","13_envipe_gasto","insample","lmm","LMM","mean_rb",0.104269788008093,0.122847589894106
+"ENVIPE 2024","13_envipe_gasto","insample","lmm","LMM","median_rb",0.361469815516193,0.14105149586291
+"ENVIPE 2024","13_envipe_gasto","insample","rf","RF","mean_rrmse",1.78444781710432,0.0445942487926099
+"ENVIPE 2024","13_envipe_gasto","insample","rf","RF","median_rrmse",1.57309422075172,0.0590003620048801
+"ENVIPE 2024","13_envipe_gasto","insample","rf","RF","mean_rb",-0.0572637201665334,0.118103742706781
+"ENVIPE 2024","13_envipe_gasto","insample","rf","RF","median_rb",0.121718477718686,0.114745463137153
+"ENVIPE 2024","13_envipe_gasto","insample","catboost","CatBoost","mean_rrmse",1.883973860527,0.0748174678868559
+"ENVIPE 2024","13_envipe_gasto","insample","catboost","CatBoost","median_rrmse",1.72930236851838,0.0970385743962045
+"ENVIPE 2024","13_envipe_gasto","insample","catboost","CatBoost","mean_rb",0.215644166674394,0.144857720120686
+"ENVIPE 2024","13_envipe_gasto","insample","catboost","CatBoost","median_rb",0.355628130157276,0.146887542837397
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn","TabPFN","mean_rrmse",1.77871175985979,0.0483748531938482
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn","TabPFN","median_rrmse",1.66016225999864,0.0588974361305582
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn","TabPFN","mean_rb",0.0951500269640407,0.120816157249886
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn","TabPFN","median_rb",0.262738189590265,0.120754071919389
+"ENVIPE 2024","13_envipe_gasto","insample","rf_group","RF-ID","mean_rrmse",1.87723913646562,0.0551529438643807
+"ENVIPE 2024","13_envipe_gasto","insample","rf_group","RF-ID","median_rrmse",1.83174928682655,0.0774048420842502
+"ENVIPE 2024","13_envipe_gasto","insample","rf_group","RF-ID","mean_rb",-0.186457734797662,0.120161969503502
+"ENVIPE 2024","13_envipe_gasto","insample","rf_group","RF-ID","median_rb",-0.281929449295889,0.141335414736864
+"ENVIPE 2024","13_envipe_gasto","insample","catboost_group","CatBoost-ID","mean_rrmse",1.9674448313731,0.0544866253372384
+"ENVIPE 2024","13_envipe_gasto","insample","catboost_group","CatBoost-ID","median_rrmse",1.85779191520593,0.0851667216286936
+"ENVIPE 2024","13_envipe_gasto","insample","catboost_group","CatBoost-ID","mean_rb",0.286610994445755,0.14622020305739
+"ENVIPE 2024","13_envipe_gasto","insample","catboost_group","CatBoost-ID","median_rb",0.458781264261545,0.164559603456802
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn_group","TabPFN-ID","mean_rrmse",1.83174464148823,0.056866372257317
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn_group","TabPFN-ID","median_rrmse",1.60752987227535,0.0745507185850675
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn_group","TabPFN-ID","mean_rb",0.144318366990889,0.127302526877061
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn_group","TabPFN-ID","median_rb",0.324969061398132,0.135905306412016
+"ENVIPE 2024","13_envipe_gasto","insample","merf","MERF","mean_rrmse",1.9750299810064,0.0731419247392532
+"ENVIPE 2024","13_envipe_gasto","insample","merf","MERF","median_rrmse",1.81486851925183,0.0836391388538714
+"ENVIPE 2024","13_envipe_gasto","insample","merf","MERF","mean_rb",-0.00632902238377721,0.123024626999502
+"ENVIPE 2024","13_envipe_gasto","insample","merf","MERF","median_rb",0.19516076546173,0.147502409994206
+"ENVIPE 2024","13_envipe_gasto","insample","catboost_em","CatBoost-EM","mean_rrmse",2.02316573257885,0.0902706672344699
+"ENVIPE 2024","13_envipe_gasto","insample","catboost_em","CatBoost-EM","median_rrmse",1.8883055884975,0.110126345779261
+"ENVIPE 2024","13_envipe_gasto","insample","catboost_em","CatBoost-EM","mean_rb",0.245778000692391,0.137943534602079
+"ENVIPE 2024","13_envipe_gasto","insample","catboost_em","CatBoost-EM","median_rb",0.399507931694376,0.163590070700794
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn_em","TabPFN-EM","mean_rrmse",1.98015883750728,0.0835064247933079
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn_em","TabPFN-EM","median_rrmse",1.76759599338893,0.0889780464351684
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn_em","TabPFN-EM","mean_rb",0.112025033913526,0.122422786787046
+"ENVIPE 2024","13_envipe_gasto","insample","tabpfn_em","TabPFN-EM","median_rb",0.292415809904376,0.153130016079484
+"ENVIPE 2024","13_envipe_gasto","oos","lmm","LMM","mean_rrmse",1.97615755775598,0.0597658970842059
+"ENVIPE 2024","13_envipe_gasto","oos","lmm","LMM","median_rrmse",1.79383077120828,0.0835743944104227
+"ENVIPE 2024","13_envipe_gasto","oos","lmm","LMM","mean_rb",-0.18260501761537,0.124476284339025
+"ENVIPE 2024","13_envipe_gasto","oos","lmm","LMM","median_rb",-0.950014606459441,0.136607934704458
+"ENVIPE 2024","13_envipe_gasto","oos","rf","RF","mean_rrmse",2.09829686545715,0.054474275032919
+"ENVIPE 2024","13_envipe_gasto","oos","rf","RF","median_rrmse",1.9973666752905,0.114427038255168
+"ENVIPE 2024","13_envipe_gasto","oos","rf","RF","mean_rb",-0.451290937912785,0.116011995999367
+"ENVIPE 2024","13_envipe_gasto","oos","rf","RF","median_rb",-1.37502441206584,0.119580054287844
+"ENVIPE 2024","13_envipe_gasto","oos","catboost","CatBoost","mean_rrmse",2.14686895137529,0.0650749956005875
+"ENVIPE 2024","13_envipe_gasto","oos","catboost","CatBoost","median_rrmse",1.85803299838864,0.096172564746046
+"ENVIPE 2024","13_envipe_gasto","oos","catboost","CatBoost","mean_rb",-0.226916949940013,0.141879888506978
+"ENVIPE 2024","13_envipe_gasto","oos","catboost","CatBoost","median_rb",-1.18273725439195,0.141359767896815
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn","TabPFN","mean_rrmse",2.10026748222467,0.0612042132972408
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn","TabPFN","median_rrmse",1.90388848584373,0.121181870403601
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn","TabPFN","mean_rb",-0.337288965127269,0.118516126922693
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn","TabPFN","median_rb",-1.25959589416174,0.119044815497924
+"ENVIPE 2024","13_envipe_gasto","oos","rf_group","RF-ID","mean_rrmse",2.2105089222676,0.078095015149265
+"ENVIPE 2024","13_envipe_gasto","oos","rf_group","RF-ID","median_rrmse",2.10257612598918,0.126285030115202
+"ENVIPE 2024","13_envipe_gasto","oos","rf_group","RF-ID","mean_rb",-0.337685325789381,0.130192497713355
+"ENVIPE 2024","13_envipe_gasto","oos","rf_group","RF-ID","median_rb",-0.868987838262292,0.159621746043981
+"ENVIPE 2024","13_envipe_gasto","oos","catboost_group","CatBoost-ID","mean_rrmse",3.47004088197734,0.680901336056098
+"ENVIPE 2024","13_envipe_gasto","oos","catboost_group","CatBoost-ID","median_rrmse",3.41660555333233,0.767946754519188
+"ENVIPE 2024","13_envipe_gasto","oos","catboost_group","CatBoost-ID","mean_rb",-0.744047424811108,0.383184393690279
+"ENVIPE 2024","13_envipe_gasto","oos","catboost_group","CatBoost-ID","median_rb",-1.68863532083326,0.376706543728541
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn_group","TabPFN-ID","mean_rrmse",2.12300952396645,0.0603066427544845
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn_group","TabPFN-ID","median_rrmse",1.95804558512832,0.12293844171411
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn_group","TabPFN-ID","mean_rb",-0.396711324591882,0.119969816256741
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn_group","TabPFN-ID","median_rb",-1.3282008566115,0.120569446328051
+"ENVIPE 2024","13_envipe_gasto","oos","merf","MERF","mean_rrmse",2.10205922421703,0.05819784381977
+"ENVIPE 2024","13_envipe_gasto","oos","merf","MERF","median_rrmse",1.95887192001248,0.120034730632703
+"ENVIPE 2024","13_envipe_gasto","oos","merf","MERF","mean_rb",-0.40071067857744,0.121029008368174
+"ENVIPE 2024","13_envipe_gasto","oos","merf","MERF","median_rb",-1.33227970656445,0.124363188500719
+"ENVIPE 2024","13_envipe_gasto","oos","catboost_em","CatBoost-EM","mean_rrmse",2.11415363324188,0.0577400937900262
+"ENVIPE 2024","13_envipe_gasto","oos","catboost_em","CatBoost-EM","median_rrmse",1.80016354723197,0.0842930551192325
+"ENVIPE 2024","13_envipe_gasto","oos","catboost_em","CatBoost-EM","mean_rb",-0.182115764188998,0.137351000369822
+"ENVIPE 2024","13_envipe_gasto","oos","catboost_em","CatBoost-EM","median_rb",-1.14856328679577,0.137174333718703
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn_em","TabPFN-EM","mean_rrmse",2.10067513392951,0.0636135029852149
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn_em","TabPFN-EM","median_rrmse",1.88149417588637,0.119086126663107
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn_em","TabPFN-EM","mean_rb",-0.302262879911822,0.12176542017524
+"ENVIPE 2024","13_envipe_gasto","oos","tabpfn_em","TabPFN-EM","median_rb",-1.22529845217937,0.121711388121661
